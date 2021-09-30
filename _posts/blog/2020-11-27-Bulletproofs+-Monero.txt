@@ -2,8 +2,6 @@
 layout: post
 title: "Dr. Sarang Noether to Implement Bulletproofs+ in Monero"
 excerpt: "Bulletproofs+ will further reduce transaction sizes and verification time for Monero."
-categories: blog
-tags: [website]
 date: 2020-11-27
 author: magicboard
 ---
