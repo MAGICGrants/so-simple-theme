@@ -12,7 +12,9 @@ MAGIC Grants is a public charity that provides undergraduate scholarships for st
 
 {% include email-cta.html %}
 
-<!-- {% include discord.html %} -->
+<br>
+
+{% include discord.html %}
 
 <br>
 
