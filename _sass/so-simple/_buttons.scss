@@ -62,3 +62,16 @@
     font-size: 0.75rem;
   }
 }
+
+.btnDiscord {
+	background-color: white;
+	color: black;
+	border: 2px solid #7289DA;
+	transition-duration: 0.4s;
+}
+
+.btnDiscord:hover {	
+	background-color: #7289DA;
+	color: white;
+	transition-duration: 0.4s;
+}
