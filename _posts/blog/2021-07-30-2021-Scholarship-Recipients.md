@@ -2,8 +2,6 @@
 layout: post
 title: "Announcing our 2021 Scholarship Recipients!"
 excerpt: "Three students were selected for undergraduate scholarships for the 2021-2022 school year."
-categories: blog
-tags: [website]
 date: 2021-07-30
 author: magicboard
 ---

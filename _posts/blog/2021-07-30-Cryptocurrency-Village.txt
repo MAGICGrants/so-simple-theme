@@ -2,8 +2,6 @@
 layout: post
 title: "Support the 2021 Defcon Cryptocurrency Village"
 excerpt: "The Defcon Cryptocurrency Village is an opportunity to educate security professionals about cryptocurrencies."
-categories: blog
-tags: [website]
 date: 2020-07-30
 author: magicboard
 ---
