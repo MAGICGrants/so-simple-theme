@@ -13,6 +13,16 @@
 	padding: 0;
 	list-style-type: none;
 	border-bottom: 1px solid #dddd;
+	
+	.entry-date {
+		color: lightgrey;
+		text-align: right;
+	}
+	
+	.post-excerpt {
+		display: block;
+		float: none;
+	}
 }
 
 .post-list:last-child {
