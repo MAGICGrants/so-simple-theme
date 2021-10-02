@@ -17,17 +17,19 @@
 	.post-entry-title {
 		color: black;
 		font-size: 150%;
+		text-decoration: none;
 	}
 	
 	.entry-date {
-		color: lightgrey;
-		text-align: right;
+		color: grey;
+		text-decoration: none;
 	}
 	
 	.excerpt {
 		display: block;
 		float: none;
 		color: grey;
+		text-decoration: none;
 	}
 }
 
