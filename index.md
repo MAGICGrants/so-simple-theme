@@ -26,15 +26,14 @@ MAGIC Grants supports various cryptocurrency networks, which we believe are esse
 
 ## Announcements and Updates
 
+<!-- 
 <ul class="entries-list">
 {% for post in site.posts limit:10 %}
 	<li><article><a href="{{ site.url }}{{ post.url }}"><div class="entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="entry-excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>
+-->
 
-
-
-<!--
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
@@ -42,6 +41,4 @@ MAGIC Grants supports various cryptocurrency networks, which we believe are esse
   <hr>
 {% endfor %}
 </ul>
-
--->
 
