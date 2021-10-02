@@ -18,12 +18,15 @@
 	.post-entry-title {
 		color: black;
 		font-size: 150%;
-		text-decoration: none;
 	}
 	
 	.entry-date {
 		color: grey;
 		text-decoration: none;
+		
+		a {
+			text-decoration: none;
+		}
 	}
 	
 	.excerpt {
@@ -31,6 +34,10 @@
 		float: none;
 		color: grey;
 		text-decoration: none;
+		
+		a {
+			text-decoration: none;
+		}
 	}
 }
 
