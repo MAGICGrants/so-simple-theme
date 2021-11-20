@@ -9,7 +9,11 @@ MAGIC Funds are an innovative way for MAGIC Grants to support important cryptocu
 
 These are the existing MAGIC Funds. Please click on the one you are interested in learning more about:
 
-* None as of 2021-09-28
+* None as of 2021-11-20
+
+## Proposed / Pending MAGIC Funds
+
+* [MAGIC Monero Fund](/funds/monero/) - in progress as of 2021-11-20
 
 ## About MAGIC Funds
 
@@ -37,7 +41,7 @@ There are many advantages to having a MAGIC Fund:
 
 * MAGIC Grants has existing banking and exchange relationships.
 
-* MAGIC Grants is cryptocurrency friendly. Its three (3) board members have more than 10 years of combined experience in the cryptocurrency space.
+* MAGIC Grants is cryptocurrency friendly. Its board members have more than 10 years of combined experience in the cryptocurrency space.
 
 * MAGIC Grants can advise on the best ways to reach out to researchers, developers, and audit firms.
 
@@ -47,7 +51,7 @@ There are many advantages to having a MAGIC Fund:
 
 ## Applying for a MAGIC Fund
 
-If you believe that a project you are involved in (officially, volunteer, etc) is a good fit for a MAGIC Fund, please [click here](https://docs.google.com/document/d/1dvppica6TP4xE2I2DHbbfexGeJ82eyETIZHZlV4DFPA/edit) to learn more about MAGIC Funds to get started.
+If you believe that a project you are involved in (officially, volunteer, etc) is a good fit for a MAGIC Fund, please [click here](/funds/fund_initial_steps.md) to learn more about MAGIC Funds to get started.
 
 Please note that for a MAGIC Fund to be set up for a particular project, MAGIC Grants must determine that the cryptocurrency network is essential public infrastructure. MAGIC Grants must also have an understanding of the source of funds to be provided for the MAGIC Fund, the voters, and the sort of projects that the Fund is expected to be used for.
 
