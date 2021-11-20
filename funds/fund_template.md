@@ -194,4 +194,4 @@ Part A: This is the compensation allowable to committee members by Voters (modif
 
 Part B: This is the compensation allowable to committee members by the MAGIC Grants board (modifiable by the MAGIC Grants board only):
 
-*Contact MAGIC Grants for the [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits.md) document, modifiable from time to time without prior notice to reflect market conditions.
+*Contact MAGIC Grants for the [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits) document, modifiable from time to time without prior notice to reflect market conditions.
