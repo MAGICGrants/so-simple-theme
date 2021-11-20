@@ -5,7 +5,7 @@ title: "MAGIC Monero Fund"
 
 MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please make sure to familiarize yourself with the important Fund details:
 
-* [Monero Fund Document](/funds/monero_fund)
+* [Monero Fund Document](/funds/monero/monero_fund)
 * [MAGIC Fund Template](/funds/fund_template) (for comparison)
 * [MAGIC Grants Policies](/about/documentation)
 * [MAGIC Fund Initial Steps](/funds/fund_initial_steps/)
