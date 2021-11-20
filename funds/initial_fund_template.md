@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "MAGIC Monero Fund"
+title: "Initial Fund Template"
 ---
 
-MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please make sure to familiarize yourself with the important Fund details:
+MAGIC Grants is in the initial stages of starting a MAGIC **Project** Fund. Please make sure to familiarize yourself with the important Fund details:
 
-* [Monero Fund Document](/funds/monero_fund)
+* [**Project** Fund Document]()
 * [MAGIC Fund Template](/funds/fund_template) (for comparison)
 * [MAGIC Grants Policies](/about/documentation)
 * [MAGIC Fund Initial Steps](/funds/fund_initial_steps/)
@@ -14,8 +14,8 @@ MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please ma
 
 * [Committee applications due](): **27 December 2021**
 * [Voter nominations due](): **27 December 2021**
-* Election start date: **29 December 2021**
-* Election end date: **12 January 2022**
+* Election start date: **December 2021**
+* Election end date: **January 2022**
 
 ## Committee Candidates and Voter Nominations
 

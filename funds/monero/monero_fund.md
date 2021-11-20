@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MAGIC <Project> Fund TEMPLATE"
+title: "MAGIC Monero Fund"
 ---
 
 *Updated 2021-11-20*
@@ -15,7 +15,9 @@ Multidisciplinary Academic Grants in Cryptocurrencies (**MAGIC Grants**) is a 50
     * “Public infrastructure” in this case refers to major public cryptocurrency networks
     * “Supporting” refers to research, development, node operation, and security testing, among others
 
-***<Insert details about the public payment infrastructure project (Project)>***
+[Monero](https://getmonero.org) is widely-distributed and leading public cryptocurrency payment infrastructure (the **Project**). Because it is so decentralized without a company or foundation behind it, Monero would benefit significantly from a side nonprofit such as MAGIC Grants. The MAGIC Monero Fund will issue grants for various qualifying needs in the Monero ecosystem.
+
+The [Monero Research Lab (MRL)](https://www.getmonero.org/resources/research-lab/) was established in 2014 to investigate Monero’s limitations and areas for improvement. While MRL has evolved over the years, it has largely been composed of researchers who individually receive per-project or quarterly donations through the Monero Core [Community Crowdfunding System (CCS)](https://ccs.getmonero.org).
 
 ## MAGIC Grants’s Competitive Advantages
 
@@ -156,7 +158,7 @@ https://www.magicgrants.org/about
 
 MAGIC Grants: [info@magicgrants.org](mailto:magicgrants.org)
 
-MAGIC **Project** Fund (emails all committee members): [<>@magicgrants.org](mailto:<>@magicgrants.org)
+MAGIC Monero Fund (emails all committee members): [MoneroFund@magicgrants.org](mailto:MoneroFund@magicgrants.org)
 
 ## Appendix A - Restrictions on Grant Disbursements
 
