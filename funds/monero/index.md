@@ -19,9 +19,9 @@ MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please ma
 
 ## Committee Candidates and Voter Nominations
 
-Please [announce your candidacy and view the candidacy of others on GitHub](https://github.com/MAGICGrants/Monero-Fund). You need a GitHub account to apply.
+[Announce your candidacy and view the candidacy of others on GitHub](https://github.com/MAGICGrants/Monero-Fund). You need a GitHub account to apply.
 
-Please [view Voter nomination instructions on GitHub](https://github.com/MAGICGrants/Monero-Fund). Nominations can be submitted by Google Form or by email.
+[View Voter nomination instructions on GitHub](https://github.com/MAGICGrants/Monero-Fund). Nominations can be submitted by Google Form or by email.
 
 ## Existing Committee Members and Voters
 
