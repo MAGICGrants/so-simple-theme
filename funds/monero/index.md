@@ -31,15 +31,18 @@ Committee Members:
 Voters:
 * None yet!
 
-## MAGIC **Project** Fund Achievements
+## MAGIC Monero Fund Achievements
 
 * None yet!
 
-## MAGIC **Project** Fund Vision and Goals
+## MAGIC Monero Fund Vision and Goals
 
-* Improve the Project ecosystem
-* Support Project development, research, and security
+* Improve the Monero ecosystem.
+* Support Monero development and research.
+* Create Monero educational resources.
+* Fund Monero security audits.
+* Run essential services that support the Monero ecosystem.
 
-## Donate to the MAGIC **Project** Fund
+## Donate to the MAGIC Monero Fund
 
-Donation options for fiat and cryptocurrencies are coming soon.
+Donation options for fiat and cryptocurrencies are coming soon. Please [contact us](mailto:info@magicgrants.org) if you are interested in donating in the meantime.
