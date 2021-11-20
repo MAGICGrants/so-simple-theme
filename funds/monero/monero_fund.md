@@ -52,7 +52,7 @@ MAGIC Grants expects that the MAGIC Fund will be used for improving the Project 
 
 ## MAGIC Fund Voter
 
-MAGIC Fund Voters will be individuals who MAGIC Grants deems to be influential, knowledgeable, and productive members of the Project ecosystem. These voters may be added or removed at MAGIC Grants’s discretion.
+MAGIC Fund Voters will be individuals who MAGIC Grants deems to be influential, knowledgeable, and productive members of the Project ecosystem. These voters may be added or removed at MAGIC Grants’s discretion. For example, MAGIC Grants may remove inactive Voters.
 
 MAGIC Fund Voters will anonymously vote during election time for the relevant open committee positions, ideally with a [condorcet voting method](https://civs1.civs.us/). The voters may also be asked to occasionally provide feedback through other votes, which the committee may treat as binding or non-binding in its discretion. MAGIC Grants may additionally request votes on various topics.
 
