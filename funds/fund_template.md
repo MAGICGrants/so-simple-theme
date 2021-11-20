@@ -77,7 +77,7 @@ For legal reasons, the MAGIC Grants board shall have a non-overridable veto on a
 * Any decisions that would not be allowable under MAGIC Grants’s charitable purpose.
 * Any decisions that would pose a high sanctions, money laundering, or terrorist financing risk.
 * Any decisions that would violate applicable laws and regulations.
-* Any decisions that would violate MAGIC Grants policies, including but not limited to MAGIC Grants’s Non-Discrimination Policy, Conflict of Interest Policy, and Investment Policy.
+* Any decisions that would violate [MAGIC Grants policies](/about/documentation/), including but not limited to MAGIC Grants’s Non-Discrimination Policy, Conflict of Interest Policy, and Investment Policy.
 * Any decisions that would provide improper disbursement to committee members, including those that violate the restrictions in **Appendix D**.
 * Any decisions that would violate the restrictions in **Appendix A**.
 
@@ -154,11 +154,9 @@ https://www.magicgrants.org/about
 
 ## Contact Information
 
-MAGIC Grants
-[info@magicgrants.org](mailto:magicgrants.org)
+MAGIC Grants: [info@magicgrants.org](mailto:magicgrants.org)
 
-MAGIC **<Project>** Fund (emails all committee members)
-[<>@magicgrants.org](mailto:<>@magicgrants.org)
+MAGIC **Project** Fund (emails all committee members): [<>@magicgrants.org](mailto:<>@magicgrants.org)
 
 ## Appendix A - Restrictions on Grant Disbursements
 
@@ -194,4 +192,4 @@ Part A: This is the compensation allowable to committee members by Voters (modif
 
 Part B: This is the compensation allowable to committee members by the MAGIC Grants board (modifiable by the MAGIC Grants board only):
 
-*Contact MAGIC Grants for the [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits) document, modifiable from time to time without prior notice to reflect market conditions.
+* Contact MAGIC Grants for the [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits) document, modifiable from time to time without prior notice to reflect market conditions.
