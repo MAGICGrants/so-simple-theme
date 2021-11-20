@@ -12,14 +12,14 @@ MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please ma
 
 ## Upcoming Dates
 
-* [Committee applications due](): **27 December 2021**
-* [Voter nominations due](): **27 December 2021**
+* [Committee applications due](https://github.com/MAGICGrants/Monero-Fund): **27 December 2021**
+* [Voter nominations due](https://github.com/MAGICGrants/Monero-Fund): **27 December 2021**
 * Election start date: **29 December 2021**
 * Election end date: **12 January 2022**
 
 ## Committee Candidates and Voter Nominations
 
-Please [announce your candidacy and view the candidacy of others on GitHub](https://github.com/MAGICGrants/Monero-Fund/issues). You need a GitHub account to apply.
+Please [announce your candidacy and view the candidacy of others on GitHub](https://github.com/MAGICGrants/Monero-Fund). You need a GitHub account to apply.
 
 Please [view Voter nomination instructions on GitHub](https://github.com/MAGICGrants/Monero-Fund). Nominations can be submitted by Google Form or by email.
 
