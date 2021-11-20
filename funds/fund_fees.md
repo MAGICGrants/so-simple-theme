@@ -5,7 +5,7 @@ title: "MAGIC Fund Fees"
 
 *Updated 2021-11-20*
 
-MAGIC Grants imposes fees on MAGIC Funds in the following way. MAGIC Grants may make changes to these fees (in its sole discretion) with advance notice including a public feedback period of at least 30 days. Fees may be changed immediately without notice if they improve the legal standing of MAGIC Grants.
+MAGIC Grants imposes fees on MAGIC Funds in the following way. MAGIC Grants may make changes to these fees (in its sole discretion) with advance notice including a public feedback period of at least 30 days. Fees may be changed immediately without notice if the changes improve the legal standing of MAGIC Grants.
 
 MAGIC Grants incurs significant costs to manage the investment and grant decisions of MAGIC Fund committees. These fees help MAGIC Grants remain operational.
 
