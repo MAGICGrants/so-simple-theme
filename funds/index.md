@@ -51,7 +51,7 @@ There are many advantages to having a MAGIC Fund:
 
 ## Applying for a MAGIC Fund
 
-If you believe that a project you are involved in (officially, volunteer, etc) is a good fit for a MAGIC Fund, please [click here](/funds/fund_initial_steps) to learn more about MAGIC Funds to get started.
+If you believe that a project you are involved in (officially, volunteer, etc) is a good fit for a MAGIC Fund, please [click here to learn more about MAGIC Funds to get started](/funds/fund_initial_steps).
 
 Please note that for a MAGIC Fund to be set up for a particular project, MAGIC Grants must determine that the cryptocurrency network is essential public infrastructure. MAGIC Grants must also have an understanding of the source of funds to be provided for the MAGIC Fund, the voters, and the sort of projects that the Fund is expected to be used for.
 
