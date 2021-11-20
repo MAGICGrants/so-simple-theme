@@ -181,7 +181,7 @@ Initially, there will be 5 committee members. All 5 are elected by the MAGIC Fun
 
 ## Appendix D - Committee Allowable Compensation and Restrictions
 
-The amount allowable for committee member compensation is the lesser of the restrictions imposed by Parts A and B:
+The amount allowable for committee member compensation is the lesser value of the restrictions imposed by Parts A and B:
 
 Part A: This is the compensation allowable to committee members by Voters (modifiable by board-approved Voter majority vote):
 
