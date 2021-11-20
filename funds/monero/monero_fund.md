@@ -152,7 +152,7 @@ Should any portion of this document affect the legal standing of MAGIC Grants, M
 
 ## MAGIC Grants Existing Board
 
-https://www.magicgrants.org/about
+[https://www.magicgrants.org/about](https://www.magicgrants.org/about)
 
 ## Contact Information
 
