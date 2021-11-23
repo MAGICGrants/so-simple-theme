@@ -57,6 +57,22 @@ If you believe that a project you are involved in (officially, volunteer, etc) i
 
 Please note that for a MAGIC Fund to be set up for a particular project, MAGIC Grants must determine that the cryptocurrency network is essential public infrastructure. MAGIC Grants must also have an understanding of the source of funds to be provided for the MAGIC Fund, the voters, and the sort of projects that the Fund is expected to be used for.
 
+## Committee Member Expectations
+
+Though expectations vary by fund, advisory committee members generally are expected to do the following:
+
+* Be an active member in the Project community by following recent news and participating in events.
+
+* Encourage individuals and entities to apply for grants.
+
+* Regularly meet with other committee members to vote on grant proposals and on investment decisions.
+
+* Reach out to community members and organizations to collect donations for the fund.
+
+* Help grow and support the Project community with educational materials.
+
+* Be an upstanding representative for the MAGIC Project Fund.
+
 ## Restrictions on Disbursements
 
 Each MAGIC Fund may have additional policies on disbursements. However, MAGIC must collect information on almost all grant recipients. This includes a photo ID and TIN.
