@@ -46,7 +46,7 @@ MAGIC Grants does not and can not represent the view of all Project community me
 
 ## MAGIC Fund Overview
 
-MAGIC Grants envisions a separate **MAGIC Fund** which is used only at the discretion of a Project community-elected MAGIC Fund committee. These funds will function as restricted funds, which can not be used by MAGIC Grants for any purpose other than as decided by the MAGIC Fund committee. This has the advantage of MAGIC Grants board members not using the MAGIC Fund for projects exclusively of their choosing.
+MAGIC Grants envisions a separate **MAGIC Fund** which is used only at the discretion of a Project community-elected MAGIC Fund advisory committee. These funds will function as restricted funds, which can not be used by MAGIC Grants for any purpose other than as decided by the MAGIC Fund advisory committee. This has the advantage of MAGIC Grants board members not using the MAGIC Fund for projects exclusively of their choosing.
 
 MAGIC Grants expects that the MAGIC Fund will be used for improving the Project ecosystem. However, funds can be used for any purposes that the MAGIC Fund committee deem appropriate, subject to additional restrictions (if any) listed in **Appendix A**. In every case, funds must be only spent for qualifying charitable purposes.
 

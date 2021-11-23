@@ -21,7 +21,7 @@ MAGIC Grants created the MAGIC Funds initiative to allow communtities to fund va
 
 Each MAGIC Fund is different because each community is different. However,  MAGIC Funds typically have the following properties:
 
-* MAGIC Fund Voters select committee members for the Fund.
+* MAGIC Fund Voters select advisory committee members for the Fund.
 
 * Committee members select various qualifying projects to fund in their communities and select investment policies.
 

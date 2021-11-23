@@ -41,7 +41,7 @@ Make sure you fully understand the limitations of what MAGIC Funds can fund, and
 
 MAGIC Grants will ultimately sign off on the initial set of voters, but MAGIC Grants relies heavily on community feedback. MAGIC Grants will normally request a list of names/pseudonyms, their email addresses, and their reason for nomination. MAGIC Grants will normally open a form asking for additional nominations. The best applications have at least 100 nominations.
 
-Once selected, the Voters will elect the first committee and vote on any other initial decisions.
+Once selected, the Voters will elect the first advisory committee and vote on any other initial decisions.
 
 ## Step 4: Fund the MAGIC Fund
 
