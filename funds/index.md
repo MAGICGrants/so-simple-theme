@@ -29,6 +29,8 @@ Each MAGIC Fund is different because each community is different. However,  MAGI
 
 * Committee members, voters, and project community members raise donations for their MAGIC Fund. Donations are fully tax deductible and can be made in crytocurrencies, bank transfer, or other methods.
 
+* Donations made to the MAGIC Fund can only be used as described in the latest copy of the relevant MAGIC Fund document. They can not be used by MAGIC Grants for any other purpose. This is not a donor-advised fund.
+
 * MAGIC Fund committee members and voters must agree to and follow MAGIC Policies, as applicable.
 
 ## Why a MAGIC Fund?
