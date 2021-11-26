@@ -23,7 +23,7 @@ Each MAGIC Fund is different because each community is different. However,  MAGI
 
 * MAGIC Fund Voters select advisory committee members for the Fund.
 
-* Committee members select various qualifying projects to fund in their communities and select investment policies.
+* Committee members select various qualifying projects in their communities to fund and select investment policies.
 
 * Committee members hold regular meetings and publish meeting minutes.
 
