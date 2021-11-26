@@ -70,7 +70,7 @@ The number of members in the MAGIC Fund Committee and the election cycle is note
 
 MAGIC Fund Committee resignations or removals will initiate a special election, for which the newly-elected member will serve the remainder of the resigning or removed member’s term.
 
-MAGIC Fund Committee members are not required to be public figures. If for any reason the MAGIC Fund Committee members are to receive compensation for their duties, they are required to submit information as required to MAGIC Grants. Any elected member may optionally forgo compensation (if applicable) for this requirement to not apply. MAGIC Grants will determine what documents need to be provided.
+MAGIC Fund Committee members are not required to be public figures. If for any reason the MAGIC Fund Committee members are to receive compensation for their duties, they are required to submit information as required to MAGIC Grants. Any elected member may optionally forgo compensation (if applicable) for this requirement to not apply, but MAGIC Grants may still require disclosures for the enforcement of its policies. MAGIC Grants will determine what documents need to be provided.
 
 ## MAGIC Veto Powers
 
