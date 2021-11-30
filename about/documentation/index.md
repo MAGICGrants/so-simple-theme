@@ -25,7 +25,7 @@ To request additional documents from MAGIC, please email [info@magicgrants.org](
 
 ## Policies
 
-* [MAGIC Policies Acceptance Sheet](/about/documentation/Policies/_MAGIC Policies Acceptance Sheet.pdf)
+* [MAGIC Policies Acceptance Sheet](/about/documentation/Policies/MAGIC Policies Acceptance Sheet.pdf)
 
 * [MAGIC Anti-Discrimination Policy](/about/documentation/Policies/MAGIC Anti-Discrimination Policy.pdf)
 
