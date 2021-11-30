@@ -25,24 +25,24 @@ To request additional documents from MAGIC, please email [info@magicgrants.org](
 
 ## Policies
 
-* [Policies Signature Sheet]()
+* [MAGIC Policies Acceptance Sheet](about/documentation/Policies/_MAGIC Policies Acceptance Sheet.pdf)
 
-* [MAGIC Anti-Discrimination Policy]()
+* [MAGIC Anti-Discrimination Policy](about/documentation/Policies/MAGIC Anti-Discrimination Policy.pdf)
 
-* [MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy]()
+* [MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy](about/documentation/Policies/MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy.pdf)
 
-* [MAGIC Code of Ethics]()
+* [MAGIC Code of Ethics](about/documentation/Policies/MAGIC Anti Discrimination Policy.pdf)
 
-* [MAGIC Compensation Policy]()
+* [MAGIC Compensation Policy](about/documentation/Policies/MAGIC Compensation Policy.pdf)
 
-* [MAGIC Conflict of Interest Policy]()
+* [MAGIC Conflict of Interest Policy](about/documentation/Policies/MAGIC Conflict of Interest Policy.pdf)
 
-* [MAGIC Document Retention Policy]()
+* [MAGIC Document Retention Policy](MAGIC Document Retention Policy.pdf)
 
-* [MAGIC Fiscal Policy]()
+* [MAGIC Fiscal Policy](about/documentation/Policies/MAGIC Fiscal Policy.pdf)
 
-* [MAGIC Gift Acceptance Policy]()
+* [MAGIC Gift Acceptance Policy](about/documentation/Policies/MAGIC Gift Acceptance Policy.pdf)
 
-* [MAGIC Investment Policy]()
+* [MAGIC Investment Policy](about/documentation/Policies/MAGIC Investment Policy.pdf)
 
-* [MAGIC Whistleblower Policy]()
+* [MAGIC Whistleblower Policy](about/documentation/Policies/MAGIC Whistleblower Policy.pdf)
