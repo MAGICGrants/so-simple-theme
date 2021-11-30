@@ -25,24 +25,24 @@ To request additional documents from MAGIC, please email [info@magicgrants.org](
 
 ## Policies
 
-* [MAGIC Policies Acceptance Sheet](about/documentation/Policies/_MAGIC Policies Acceptance Sheet.pdf)
+* [MAGIC Policies Acceptance Sheet](/about/documentation/Policies/_MAGIC Policies Acceptance Sheet.pdf)
 
-* [MAGIC Anti-Discrimination Policy](about/documentation/Policies/MAGIC Anti-Discrimination Policy.pdf)
+* [MAGIC Anti-Discrimination Policy](/about/documentation/Policies/MAGIC Anti-Discrimination Policy.pdf)
 
-* [MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy](about/documentation/Policies/MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy.pdf)
+* [MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy](/about/documentation/Policies/MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy.pdf)
 
-* [MAGIC Code of Ethics](about/documentation/Policies/MAGIC Anti Discrimination Policy.pdf)
+* [MAGIC Code of Ethics](/about/documentation/Policies/MAGIC Anti Discrimination Policy.pdf)
 
-* [MAGIC Compensation Policy](about/documentation/Policies/MAGIC Compensation Policy.pdf)
+* [MAGIC Compensation Policy](/about/documentation/Policies/MAGIC Compensation Policy.pdf)
 
-* [MAGIC Conflict of Interest Policy](about/documentation/Policies/MAGIC Conflict of Interest Policy.pdf)
+* [MAGIC Conflict of Interest Policy](/about/documentation/Policies/MAGIC Conflict of Interest Policy.pdf)
 
-* [MAGIC Document Retention Policy](MAGIC Document Retention Policy.pdf)
+* [MAGIC Document Retention Policy](/about/documentation/Policies/MAGIC Document Retention Policy.pdf)
 
-* [MAGIC Fiscal Policy](about/documentation/Policies/MAGIC Fiscal Policy.pdf)
+* [MAGIC Fiscal Policy](/about/documentation/Policies/MAGIC Fiscal Policy.pdf)
 
-* [MAGIC Gift Acceptance Policy](about/documentation/Policies/MAGIC Gift Acceptance Policy.pdf)
+* [MAGIC Gift Acceptance Policy](/about/documentation/Policies/MAGIC Gift Acceptance Policy.pdf)
 
-* [MAGIC Investment Policy](about/documentation/Policies/MAGIC Investment Policy.pdf)
+* [MAGIC Investment Policy](/about/documentation/Policies/MAGIC Investment Policy.pdf)
 
-* [MAGIC Whistleblower Policy](about/documentation/Policies/MAGIC Whistleblower Policy.pdf)
+* [MAGIC Whistleblower Policy](/about/documentation/Policies/MAGIC Whistleblower Policy.pdf)
