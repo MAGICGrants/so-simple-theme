@@ -31,7 +31,7 @@ To request additional documents from MAGIC, please email [info@magicgrants.org](
 
 * [MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy](/about/documentation/Policies/MAGIC Anti-Money Laundering and Counter-Terrorist Financing Policy.pdf)
 
-* [MAGIC Code of Ethics](/about/documentation/Policies/MAGIC Anti Discrimination Policy.pdf)
+* [MAGIC Code of Ethics](/about/documentation/Policies/MAGIC Code of Ethics.pdf)
 
 * [MAGIC Compensation Policy](/about/documentation/Policies/MAGIC Compensation Policy.pdf)
 
