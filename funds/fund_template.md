@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC <Project> Fund TEMPLATE"
 ---
 
-*Updated 2021-11-20*
+*Updated 2021-12-01*
 
 ## Background
 
@@ -21,7 +21,7 @@ Multidisciplinary Academic Grants in Cryptocurrencies (**MAGIC Grants**) is a 50
 
 MAGIC Grants is well-positioned to offer a MAGIC Fund for this Project. MAGIC Grants’s main advantages include the following:
 
-* Cryptocurrency-supportive board, with MAGIC Grants’s three board members having 10+ combined years of experience with the cryptocurrency communities.
+* Cryptocurrency-supportive board, with MAGIC Grants’s three board members having 10+ combined years of experience with cryptocurrency communities.
 * 501(c)(3) public foundation status.
 * Full tax deductibility of donations as allowable by law, regardless of asset (eg: USD, BTC, XMR, NFTs, stock).
 * Full ability to convert donations to a less-volatile asset (such as fiat currency) for making payments in whichever means is preferred by the contractor or employee.
@@ -31,9 +31,9 @@ MAGIC Grants is well-positioned to offer a MAGIC Fund for this Project. MAGIC Gr
 
 ## Case Studies and Previous Success Stories
 
-MAGIC Grants has previously engaged with the cryptocurrency communities on several occasions with great success. These include:
+MAGIC Grants has previously engaged with cryptocurrency communities on several occasions with great success. These include:
 
-* [Sarang Noether’s November 2019 fundraiser](https://charity.gofundme.com/o/en/campaign/dr-sarang-noether-to-implement-bulletproofs-in-monero) and contract with MAGIC Grants to implement Bulletproofs+ in Monero
+* [Sarang Noether’s November 2020 fundraiser](https://charity.gofundme.com/o/en/campaign/dr-sarang-noether-to-implement-bulletproofs-in-monero) and contract with MAGIC Grants to implement Bulletproofs+ in Monero
 * [MAGIC Grants’s July 2021 fundraiser](https://www.gofundme.com/f/supporting-the-2021-defcon-cryptocurrency-village) to raise funds for the Cryptocurrency Village at DEF CON
 
 These were successful, with the necessary funds being raised and the desired work being completed in a timely manner.
@@ -44,7 +44,7 @@ MAGIC Grants does not and can not represent the view of all Project community me
 
 ## MAGIC Fund Overview
 
-MAGIC Grants envisions a separate **MAGIC Fund** which is used only at the discretion of a Project community-elected MAGIC Fund advisory committee. These funds will function as restricted funds, which can not be used by MAGIC Grants for any purpose other than as decided by the MAGIC Fund committee. This has the advantage of MAGIC Grants board members not using the MAGIC Fund for projects exclusively of their choosing.
+MAGIC Grants envisions a separate **MAGIC Fund** which is used only at the discretion of a Project community-elected MAGIC Fund advisory committee. These funds will function as restricted funds, which can not be used by MAGIC Grants for any purpose other than as decided by the MAGIC Fund advisory committee or as explained in this document. This has the advantage of MAGIC Grants board members not using the MAGIC Fund for projects exclusively of their choosing.
 
 MAGIC Grants expects that the MAGIC Fund will be used for improving the Project ecosystem. However, funds can be used for any purposes that the MAGIC Fund advisory committee deem appropriate, subject to additional restrictions (if any) listed in **Appendix A**. In every case, funds must be only spent for qualifying charitable purposes.
 
@@ -150,7 +150,7 @@ Should any portion of this document affect the legal standing of MAGIC Grants, M
 
 ## MAGIC Grants Existing Board
 
-[https://www.magicgrants.org/about](https://www.magicgrants.org/about)
+[Link](/about/)
 
 ## Contact Information
 
