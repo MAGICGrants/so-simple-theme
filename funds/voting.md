@@ -12,11 +12,10 @@ MAGIC Grants voters will typically follow these steps:
 * Provide a valid email to MAGIC Grants, if we don't have one already.
 * [Activate your email on CIVS](https://civs1.civs.us/cgi-bin/opt_in.pl). This will save you an email from us.
 * Confirm you can receive emails from CIVS (civs@cornell.edu) and MAGIC Grants (info@magicgrants.org) to make sure that they aren't going to spam.
-* You will be emailed a link to vote. The email will start with "Poll:".
+* You will be emailed a link to vote. The email will start with "Poll:". **Make sure to verify the supervisor is info@magicgrants.org**! It's unlikely, but you may receive fake emails from someone else asking for you to vote!
 * Vote by ranking the choices (1 is best).
 * **Save your receipt if you want the option to edit your vote!**
 * CIVS only supports one question per link. You may be emailed several voting links. Make sure to complete them all.
-* **Make sure to verify the supervisor is info@magicgrants.org**! It's unlikely, but you may receive fake emails from someone else asking for you to vote!
 
 Important notes:
 
