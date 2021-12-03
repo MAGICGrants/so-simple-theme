@@ -76,3 +76,12 @@ Though expectations vary by fund, advisory committee members generally are expec
 ## Restrictions on Disbursements
 
 Each MAGIC Fund may have additional policies on disbursements. However, MAGIC must collect information on almost all grant recipients. This includes a photo ID and TIN.
+
+## Documentation
+
+*For documentation on MAGIC Grants generally, [click here](/about/documentation).*
+
+* [MAGIC Fund Initial Steps](/fund/fund_initial_steps)
+* [MAGIC Fund Fees](/fund/fund_fees)
+* [MAGIC Fund Template](/funds/template)
+* [MAGIC Fund Grant Disbursement Process and Requirements](/funds/MAGIC Fund Grant Disbursement Process and Requirements)
