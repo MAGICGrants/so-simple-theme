@@ -81,7 +81,7 @@ Each MAGIC Fund may have additional policies on disbursements. However, MAGIC mu
 
 *For documentation on MAGIC Grants generally, [click here](/about/documentation).*
 
-* [MAGIC Fund Initial Steps](/fund/fund_initial_steps)
-* [MAGIC Fund Fees](/fund/fund_fees)
+* [MAGIC Fund Initial Steps](/funds/fund_initial_steps)
+* [MAGIC Fund Fees](/funds/fund_fees)
 * [MAGIC Fund Template](/funds/template)
 * [MAGIC Fund Grant Disbursement Process and Requirements](/funds/MAGIC Fund Grant Disbursement Process and Requirements)
