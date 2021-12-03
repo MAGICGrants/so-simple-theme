@@ -34,6 +34,7 @@ You can get a head start by reviewing the MAGIC Fund template and the [documents
 * [MAGIC Fund Template](/funds/fund_template)
 * [MAGIC Fund Fees](/funds/fund_fees)
 * [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits)
+* [Voting Process](/funds/voting/)
 
 Make sure you fully understand the limitations of what MAGIC Funds can fund, and what documents are needed from grant recipients (and any other payee) for funds to be disbursed.
 

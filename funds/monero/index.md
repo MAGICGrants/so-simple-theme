@@ -9,6 +9,7 @@ MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please ma
 * [MAGIC Fund Template](/funds/fund_template) (for comparison)
 * [MAGIC Grants Policies](/about/documentation)
 * [MAGIC Fund Initial Steps](/funds/fund_initial_steps/)
+* [Voting Process](/funds/voting/)
 
 ## Upcoming Dates
 
