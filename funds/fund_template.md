@@ -34,7 +34,7 @@ MAGIC Grants is well-positioned to offer a MAGIC Fund for this Project. MAGIC Gr
 MAGIC Grants has previously engaged with cryptocurrency communities on several occasions with great success. These include:
 
 * [Sarang Noether’s November 2020 fundraiser](https://charity.gofundme.com/o/en/campaign/dr-sarang-noether-to-implement-bulletproofs-in-monero) and contract with MAGIC Grants to implement Bulletproofs+ in Monero
-* [MAGIC Grants’s July 2021 fundraiser](https://www.gofundme.com/f/supporting-the-2021-defcon-cryptocurrency-village) to raise funds for the Cryptocurrency Village at DEF CON
+* [MAGIC Grants’s July 2021 fundraiser](https://www.gofundme.com/f/supporting-the-2021-defcon-cryptocurrency-village) for the Cryptocurrency Village at DEF CON
 
 These were successful, with the necessary funds being raised and the desired work being completed in a timely manner.
 
