@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Voting"
+title: "Voting Guide"
 ---
 
 This page explains some of the most important steps for voting.
