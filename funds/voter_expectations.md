@@ -35,4 +35,4 @@ Voters ultimately just need to vote. However, voters can improve the significanc
 
 * Volunteering to support MAGIC Grants's operations.
 
-*[See Committee Member expectations](/funds/committee_expectations]*
+*[See Committee Member expectations](/funds/committee_expectations)*

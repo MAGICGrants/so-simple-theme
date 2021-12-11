@@ -23,4 +23,4 @@ Though expectations vary by fund, advisory committee members generally are expec
 
 Committee members should expect to spend several hours a week on their committee duties. We estimate about 150 hours per year is normal. If this is too much, please apply to be a voter instead.
 
-*[See Voter expectations](/funds/voter_expectations]*
+*[See Voter expectations](/funds/voter_expectations)*
