@@ -59,19 +59,11 @@ Please note that for a MAGIC Fund to be set up for a particular project, MAGIC G
 
 ## Committee Member Expectations
 
-Though expectations vary by fund, advisory committee members generally are expected to do the following:
+[Click here for an overview](/funds/committee_expectations/).
 
-* Be an active member in the Project community by following recent news and participating in events.
+## Voter Expectations
 
-* Encourage individuals and entities to apply for grants.
-
-* Regularly meet with other committee members to vote on grant proposals and on investment decisions.
-
-* Reach out to community members and organizations to collect donations for the fund.
-
-* Help grow and support the Project community with educational materials.
-
-* Be an upstanding representative for the MAGIC Project Fund.
+[Click here for an overview](/funds/voter_expectations/).
 
 ## Restrictions on Disbursements
 
