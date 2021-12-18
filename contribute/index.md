@@ -3,9 +3,11 @@ layout: page
 title: "Donate"
 ---
 
-[Donate Cryptocurrencies with GloBee](https://globee.com/en/donate/4G3rZQEjbDdonq9n80gmxM)
+<!-- [Donate Most Cryptocurrencies with GloBee](https://globee.com/en/donate/4G3rZQEjbDdonq9n80gmxM) -->
 
 [Donate Credit/Debit with PayPal](https://www.paypal.com/us/fundraiser/charity/4112637)
+
+For other donation options including cryptocurrencies, please contact [info@magicgrants.org](mailto:info@magicgrants.org).
 
 MAGIC is a 501(c)3 organization based in Colorado. MAGIC Grants focuses on building strong cryptocurrency communities and networks. From educational materials and scholarships that train, attract, and inspire talent, to security audits, development, and research for public payment infrastructure, MAGIC Grants empowers cryptocurrency communities in many ways.
 

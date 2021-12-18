@@ -22,7 +22,7 @@ MAGIC Grants offers undergraduate scholarships to students interested in cryptoc
 
 ## MAGIC Funds and Public Infrastructure
 
-MAGIC Grants supports various cryptocurrency networks, which we believe are essential public payment infrastucture. MAGIC Grants empowers communities to set up [MAGIC Funds](/funds/) for various projects deemed essential. These Funds are semi-autonomous and can choose to fund various qualifying activities, including educational materials, essential developer maintenance, research, and security audits.
+MAGIC Grants supports various cryptocurrency networks, which we believe are essential public payment infrastructure. MAGIC Grants empowers communities to set up [MAGIC Funds](/funds/) for various projects deemed essential. These Funds are semi-autonomous and can choose to fund various qualifying activities, including educational materials, essential developer maintenance, research, and security audits.
 
 ## Announcements and Updates
 
