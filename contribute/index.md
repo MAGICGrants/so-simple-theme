@@ -9,7 +9,7 @@ title: "Donate"
 
 For other donation options including cryptocurrencies and large amounts, please contact [info@magicgrants.org](mailto:info@magicgrants.org).
 
-MAGIC is a 501(c)3 organization based in Colorado. MAGIC Grants focuses on building strong cryptocurrency communities and networks. From educational materials and scholarships that train, attract, and inspire talent, to security audits, development, and research for public payment infrastructure, MAGIC Grants empowers cryptocurrency communities in many ways.
+MAGIC Grants is a 501(c)3 organization based in Colorado. MAGIC Grants focuses on building strong cryptocurrency communities and networks. From educational materials and scholarships that train, attract, and inspire talent, to security audits, development, and research for public payment infrastructure, MAGIC Grants empowers cryptocurrency communities in many ways.
 
 You may be eligible for a charitable deduction. Consult with your tax adviser or the IRS to determine whether a contribution is deductible.
 
@@ -23,5 +23,5 @@ To learn more about MAGIC Funds and to donate to them, please [click here](/fund
 
 ## Why should I donate?
 
-At MAGIC, we hope to redirect some of the wealth generated in the cryptocurrency world back toward the world of education. Our goals are simple. With your help, we can make it cheaper to go to college for some folks interested in studying cryptocurrencies. These students need initial support from the cryptocurrency community to know that it is welcoming. Your donations may also support critical infrastructure improvements for public payment networks such as Bitcoin and Monero.
+At MAGIC Grants, we hope to redirect some of the wealth generated in the cryptocurrency world back toward the world of education. Our goals are simple. With your help, we can make it cheaper to go to college for some folks interested in studying cryptocurrencies. These students need initial support from the cryptocurrency community to know that it is welcoming. Your donations may also support critical infrastructure improvements for public payment networks such as Bitcoin and Monero.
 
