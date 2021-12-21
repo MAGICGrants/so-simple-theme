@@ -17,7 +17,7 @@ You may be eligible for a charitable deduction. Consult with your tax adviser or
 
 MAGIC Grants aspires to shortly offer MAGIC Funds around specific projects where the disbursements are approved through committee and community vote.
 
-Donations to MAGIC Grants are unrestricted donations (unless mentioned). Disbursements from donations to any particular MAGIC Fund are subject to the restrictions documented for the fund.
+Donations to MAGIC Grants are unrestricted donations (unless mentioned). Donations to any particular MAGIC Fund are subject to the restrictions documented for the fund.
 
 To learn more about MAGIC Funds and to donate to them, please [click here](/funds/).
 
