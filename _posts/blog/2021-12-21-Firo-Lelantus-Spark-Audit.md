@@ -24,7 +24,7 @@ This project funding proposal includes:
  
 This campaign is necessary to support the security of an public, permissionless payment network. 
 
-MAGIC Grants accepts donations through GoFundMe with credit/debit cards. If you prefer to make a donation outside of GoFundMe (for example, an "offline" donation with Firo or another cryptocurrency), please [click here](/contribute/). Your donation will still count towards the proposal, but it will need to be added manually to this page after a delay.
+MAGIC Grants accepts donations [through GoFundMe](https://www.gofundme.com/f/code-audit-for-lelantus-spark-in-firo) with credit/debit cards. If you prefer to make a donation outside of GoFundMe (for example, an "offline" donation with Firo or another cryptocurrency), please [click here](/contribute/). Your donation will still count towards the proposal, but it will need to be added manually to this page after a delay.
  
 **Your donation is tax-deductible** to the amount allowable by law. In 2021, you may be able to take a **$300 (for individuals) or $600 (for married filing jointly) above-the-line tax deduction** *even if you do not itemize your deductions*. Take advantage of the [tax benefits](https://www.irs.gov/newsroom/expanded-tax-benefits-help-individuals-and-businesses-give-to-charity-during-2021-deductions-up-to-600-available-for-cash-donations-by-non-itemizers) afforded to you and support a cause you care about!
   
