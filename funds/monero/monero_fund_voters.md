@@ -10,6 +10,7 @@ title: "MAGIC Monero Fund Voters"
 ## Voters
 
 * ACK-J
+* Aharonov_Bohm
 * anhdres
 * carrington
 * CryptoGrampy
