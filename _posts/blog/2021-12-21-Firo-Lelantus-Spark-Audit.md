@@ -15,7 +15,7 @@ Lelantus Spark is a proving system that is quite promising for use in Firo, Mone
  
 The Firo team has already coordinated audits of the proving system. In this case, MAGIC Grants is assisting with an audit of the actual code implementation.
  
-The specific audit firms have not yet been selected. Reuben Yap from the Firo community has advised that MAGIC Grants should open this fundraising campaign in advance of audit proposals to expedite the process. The fundraising campaign will be adjusted to
+The specific audit firms have not yet been selected. Reuben Yap from the Firo community has advised that MAGIC Grants should open this fundraising campaign in advance of audit proposals to expedite the process. The fundraising campaign will be adjusted to the real amount when known.
  
 This project funding proposal includes:
 
