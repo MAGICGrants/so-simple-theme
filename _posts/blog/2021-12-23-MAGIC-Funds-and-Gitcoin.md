@@ -47,7 +47,7 @@ Gitcoin matches funds in a *completely* different way using "Quadratic Funding."
 
 Despite both projects raising $100 each, Project A raises nearly double what Project B raises after matching.
 
-Proponents of Gitcoin and Quadratic Voting argue that small donations are more important than their direct values show. Critics argue that this encourages the spamming of small donations, or that significant drawbacks need to be imposed to mitigate these risks.
+Proponents of Gitcoin and Quadratic Funding argue that small donations are more important than their direct values show. Critics argue that this encourages the spamming of small donations, or that significant drawbacks need to be imposed to mitigate these risks.
 
 Gitcoin uses a combination of methods to mitigate these risks, including Twitter/Facebook/video verification and an investigation process.
 
