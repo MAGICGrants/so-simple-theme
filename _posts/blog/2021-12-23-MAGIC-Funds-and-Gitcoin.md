@@ -10,7 +10,7 @@ A lot of cryptocurrency charitable conversations involve [Gitcoin](https://gitco
 
 While we believe Gitcoin has unquestionably done some good for the cryptocurrency space, we believe that donors, communities, and grantors need to understand what Gitcoin is and isn't.
 
-If you're on this page, you've probably heard of Gitcoin but aren't extremely familiar with Gitcoin.
+If you're on this page, you've probably heard of Gitcoin but aren't extremely familiar with it.
 
 ## What is Gitcoin?
 
@@ -32,13 +32,13 @@ The matching funds differentiate Gitcoin from just another fundraising platform.
 
 Gitcoin consolidates funds in various pools. These pools are unique to a given active matching round.
 
-These pools vary each round, but [GR12](https://gitcoin.co/blog/announcing-grants-round-12/) (ended 2021-12-16) included 1) generic pool, and 2) and many specific pools to address climate change, advocacy, longevity, and specific ecosystems like Uniswap.
+These pools vary each round, but [GR12](https://gitcoin.co/blog/announcing-grants-round-12/) (ended 2021-12-16) included 1) a generic pool, and 2) and many specific pools to address climate change, advocacy, longevity, and specific ecosystems like Uniswap.
 
 For simplicity's let's just focus on one big pool, but there are many in practice. Focusing on one makes matching easier to understand.
 
 Charities have used matching often in the past in a relatively basic way to encourage more donations. For example: for each $1 you donate, another entity will match that $1 to double the donation. It can take various forms, but that's the basic idea.
 
-Gitcoin matches funds in a *completely* different way using "Quadratic Funding." Instead of proportionally matching on dollars alone, Gitcoin matches in large part by the *total number of votes.* This means that a Grant with 10 donations of $10 (A) get a *significantly* higher portion of the pooled matching funds (suppose $100) than a Grant with 1 donation of $100 (B).
+Gitcoin matches funds in a *completely* different way using "Quadratic Funding." Instead of proportionally matching on dollars alone, Gitcoin matches in large part by the *total number of donation.* This means that a Grant with 10 donations of $10 (A) get a *significantly* higher portion of the pooled matching funds (suppose $100) than a Grant with 1 donation of $100 (B).
 
 | Matching Type | Received by A | Received by B |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ MAGIC Grants has no specific position on using Quadratic Voting to allocate matc
 
 ## Be careful of the matching estimates
 
-Gitcoin shows matching estimates. At one point, the platform claimed that a [$1 contribution would be matched by $3204 dollars](https://twitter.com/NeerajKA/status/1466812177260679177). Coin Center raised a significant amount of money in the round: $103,839. However, [they received $340,000 in matching]((https://youtu.be/W-doVjkkZbg?t=2643)), or "only" a $3.27 match for every $1 on average.
+Gitcoin shows matching estimates. At one point, the platform claimed that a [$1 contribution would be matched by $3204](https://twitter.com/NeerajKA/status/1466812177260679177). Coin Center raised a significant amount of money in the round: $103,839. However, [they received $340,000 in matching]((https://youtu.be/W-doVjkkZbg?t=2643)), or "only" a $3.27 match for every $1 on average.
 
 While this is still generous matching, it's important to be cautious that these estimates are not definitive in any sense. Instead of participating in a straightforward matching process, you are participating in a far more complicated one.
 
@@ -99,12 +99,12 @@ Since Gitcoin is not a 501(c)(3) exempt charity, donations to Gitcoin are not ta
 * Donations are completely tax deductible, with up to 37% savings on federal taxes *alone*. That would let you donate $100 for only $63, even before any matching.
 * Donations are accepted by cryptocurrency, wire, check, NFT, etc.
 * Assets can (optionally) be invested through innovative means, for example by providing liquidity on a DEX or lending on a cryptocurrency lending platform.
-* Includes project communities in decisions by selecting voters to elect advisory committees.
-* Able to directly sign contracts with and face grant recipients.
-* Allows community-elected leadership positions wide autonomy to grow the Fund.
-* Can set up matching programs for various Funds or fundraising campaigns in a much more straightforward manner.
-* Publishes various public financial documents that are required by law.
-* Explicitly not-for-profit by law. MAGIC Grants's board cannot receive compensation for being a board member.
+* MAGIC Funds include project communities in decisions by selecting voters to elect advisory committees.
+* The organization is able to directly sign contracts with and face grant recipients.
+* MAGIC Funds allow community-elected leadership positions wide autonomy to grow the Fund.
+* MAGIC Grants can set up matching programs for various Funds or fundraising campaigns in a much more straightforward manner.
+* MAGIC Grants publishes various public financial documents that are required by law.
+* MAGIC Grants is explicitly not-for-profit by law. MAGIC Grants's board cannot receive compensation for being a board member.
 
 ### Drawbacks of MAGIC Funds
 
@@ -122,7 +122,7 @@ On Gitcoin, this would likely cost both donors the full value of their donations
 
 Most likely, the real cost to donate $1000 from each of these two donors is $2000 total. No savings.
 
-If instead these donors gave money do a MAGIC Bitcoin Fund, then they should both qualify for tax deductions. The real savings for businesses and individuals is about 20%, but it could be greater. So the cost of donating $1000 each is only ~$1600 total.
+If instead these donors gave money to a MAGIC Bitcoin Fund, then they should both qualify for tax deductions. The real savings for businesses and individuals is about 20%, but it could be greater. So the cost of donating $1000 each is only ~$1600 total.
 
 This MAGIC Bitcoin Fund would then select researchers and developers to fund with the donations.
 
@@ -132,6 +132,6 @@ Where possible, people and organizations should donate in ways to maximize their
 
 Hopefully you now have a better idea of the similarities and differences between Gitcoin and MAGIC Funds. Gitcoin is a for-profit company that operates a grant crowdfunding site and uses a quirky pool matching program. MAGIC Funds are a part of a 501(c)(3) public charity.
 
-We encourage donors to [reach out to us](mailto:info@magicgrants.org) to see if we can help take your donation further with tax advantages while still supporting the projects you wish to support.
+We encourage donors to [reach out to us](mailto:info@magicgrants.org) to see if we can help take your donation further with tax advantages while still supporting the projects you are passionate about.
 
 *Note: this is not legal or tax advice; talk to a legal/tax professional.*
