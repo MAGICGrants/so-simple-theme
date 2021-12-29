@@ -12,6 +12,7 @@ title: "MAGIC Monero Fund Voters"
 * ACK-J
 * Aharonov_Bohm
 * anhdres
+* bobbieweirder
 * carrington
 * CryptoGrampy
 * Cyphermoney
