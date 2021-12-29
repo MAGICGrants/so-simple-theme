@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund Voters"
 ---
 
-*Updated 2021-12-22*
+*Updated 2021-12-29*
 
 [Check to see if voter nominations are open by clicking here](https://github.com/MAGICGrants/Monero-Fund).
 
@@ -15,6 +15,7 @@ title: "MAGIC Monero Fund Voters"
 * carrington
 * CryptoGrampy
 * Cyphermoney
+* Douglas Tuman
 * Garrett See
 * gingeropolous
 * haosgames
@@ -27,5 +28,7 @@ title: "MAGIC Monero Fund Voters"
 * plowsof
 * Rucknium
 * SerHack
+* Seth for Privacy
+* Sunchakr
 * tallest-man
 * xmrscott
