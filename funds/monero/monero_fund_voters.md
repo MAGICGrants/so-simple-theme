@@ -22,7 +22,9 @@ title: "MAGIC Monero Fund Voters"
 * gingeropolous
 * haosgames
 * hyc
+* kayabaNerve
 * koe
+* Lee Clagett (vtnerd)
 * midipoet
 * Monero PT
 * MSvB
