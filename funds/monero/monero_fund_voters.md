@@ -14,6 +14,7 @@ title: "MAGIC Monero Fund Voters"
 * anhdres
 * bobbieweirder
 * carrington
+* cbster
 * charuto
 * CryptoGrampy
 * Cyphermoney
@@ -27,10 +28,12 @@ title: "MAGIC Monero Fund Voters"
 * Lee Clagett (vtnerd)
 * midipoet
 * Monero PT
+* MoneroApe
 * MSvB
 * omarsusername
 * plowsof
 * Rucknium
+* Sean O'Brien
 * SerHack
 * Seth for Privacy
 * Sunchakr
