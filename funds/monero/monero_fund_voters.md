@@ -14,6 +14,7 @@ title: "MAGIC Monero Fund Voters"
 * anhdres
 * bobbieweirder
 * carrington
+* charuto
 * CryptoGrampy
 * Cyphermoney
 * Douglas Tuman
