@@ -35,4 +35,5 @@ title: "MAGIC Monero Fund Voters"
 * Seth for Privacy
 * Sunchakr
 * tallest-man
+* untraceable
 * xmrscott
