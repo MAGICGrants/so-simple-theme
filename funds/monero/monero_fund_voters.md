@@ -18,10 +18,12 @@ title: "MAGIC Monero Fund Voters"
 * charuto
 * CryptoGrampy
 * Cyphermoney
+* Danson
 * Douglas Tuman
 * Garrett See
 * gingeropolous
 * haosgames
+* Hutnah
 * hyc
 * kayabaNerve
 * koe
@@ -32,6 +34,7 @@ title: "MAGIC Monero Fund Voters"
 * MSvB
 * omarsusername
 * plowsof
+* PsYcK
 * Rucknium
 * Sean O'Brien
 * SerHack
