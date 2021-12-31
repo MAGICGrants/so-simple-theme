@@ -8,7 +8,7 @@ We are using this group to simplify sending conversations to voters. You will ge
 
 Replies are not enabled to protect the privacy of voters. If you have questions, please email info@magicgrants.org.
 
-No action is needed for voting at the moment.
+No action is needed for voting at the moment. We will email instructions later.
 
 Thanks!
 
