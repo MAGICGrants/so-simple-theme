@@ -43,5 +43,7 @@ title: "MAGIC Monero Fund Voters"
 * Sunchakr
 * Syketale
 * tallest-man
+* Twisted_Turtle
 * untraceable
+* Vik Sharma
 * xmrscott
