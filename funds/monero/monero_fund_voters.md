@@ -31,6 +31,7 @@ title: "MAGIC Monero Fund Voters"
 * midipoet
 * Monero PT
 * MoneroApe
+* monerobull
 * MSvB
 * omarsusername
 * plowsof
