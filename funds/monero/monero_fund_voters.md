@@ -19,6 +19,8 @@ title: "MAGIC Monero Fund Voters"
 * CryptoGrampy
 * Cyphermoney
 * Danson
+* dEBRUYNE
+* Deverick
 * Douglas Tuman
 * Garrett See
 * gingeropolous
@@ -33,6 +35,7 @@ title: "MAGIC Monero Fund Voters"
 * MoneroApe
 * monerobull
 * MSvB
+* needmoney90
 * omarsusername
 * plowsof
 * PsYcK
