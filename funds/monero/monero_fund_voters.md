@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund Voters"
 ---
 
-*Updated 2022-01-02*
+*Updated 2022-01-03*
 
 [Check to see if voter nominations are open by clicking here](https://github.com/MAGICGrants/Monero-Fund).
 
@@ -30,6 +30,7 @@ title: "MAGIC Monero Fund Voters"
 * kayabaNerve
 * koe
 * Lee Clagett (vtnerd)
+* LocalMonero
 * midipoet
 * Monero PT
 * MoneroApe
