@@ -21,7 +21,7 @@ To request additional documents from MAGIC, please email [info@magicgrants.org](
 
 * [2018 (YE 2019-07-31)](/about/documentation/Annual Reports/2018_990-EZ.pdf)
 
-* [2019 (YE 2020-07-31)](about/documentation/Annual Reports/2019_990-EZ.pdf)
+* [2019 (YE 2020-07-31)](/about/documentation/Annual Reports/2019_990-EZ.pdf)
 
 * [2020 (YE 2021-07-31)]()
 
