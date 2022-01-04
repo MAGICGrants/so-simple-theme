@@ -17,11 +17,13 @@ To request additional documents from MAGIC, please email [info@magicgrants.org](
 
 ## Annual Reports
 
-*Please check [the IRS website](https://apps.irs.gov/app/eos/detailsPage?ein=825183590&name=Multidisciplinary%20Academic%20Grants%20in%20Cryptocurrencies&city=Littleton&state=CO&countryAbbr=US&dba=&type=CHARITIES,%20COPYOFRETURNS&orgTags=CHARITIES&orgTags=COPYOFRETURNS) for copies of our annual returns until we add them to our website directly.*
+*Please also check [the IRS website](https://apps.irs.gov/app/eos/detailsPage?ein=825183590&name=Multidisciplinary%20Academic%20Grants%20in%20Cryptocurrencies&city=Littleton&state=CO&countryAbbr=US&dba=&type=CHARITIES,%20COPYOFRETURNS&orgTags=CHARITIES&orgTags=COPYOFRETURNS) for copies of our annual returns.*
 
-* [2019](/about/documentation/Annual Reports/2019_990-EZ.pdf)
+* [2018 (YE 2019-07-31)](/about/documentation/Annual Reports/2018_990-EZ.pdf)
 
-* [2020]()
+* [2019 (YE 2020-07-31)](about/documentation/Annual Reports/2019_990-EZ.pdf)
+
+* [2020 (YE 2021-07-31)]()
 
 ## Policies
 
