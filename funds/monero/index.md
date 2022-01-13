@@ -13,7 +13,7 @@ MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please ma
 
 ## Upcoming Dates
 
-Committee and voter nominations open December 2022.
+Committee applications and voter nominations open December 2022.
 
 ## Committee Candidates and Voter Nominations
 
