@@ -80,14 +80,14 @@ plugins:
   - jekyll-paginate
 
 # Front Matter Defaults
-defaults:
+#defaults:
   # Posts defaults
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      share: true
+#  - scope:
+#      path: "_posts"
+#      type: posts
+#    values:
+#      layout: post
+#      share: true
 
 #Collections
 collections_dir: collections
