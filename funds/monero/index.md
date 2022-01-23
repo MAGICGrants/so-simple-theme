@@ -47,3 +47,12 @@ Committee Members:
 ## Donate to the MAGIC Monero Fund
 
 Donation options for fiat and cryptocurrencies are coming soon. Please [contact us](mailto:info@magicgrants.org) if you are interested in donating in the meantime.
+
+## Committee Minutes
+
+<ul class="post-list">
+{% for post in site.meetings.monero-fund.posts %}
+  <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+  <hr>
+{% endfor %}
+</ul>

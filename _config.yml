@@ -20,7 +20,7 @@ locale: en-US
 title: "MAGIC Grants"
 description: "Multidisciplinary Academic Grants in Cryptocurrencies"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://magicgrants.org"
 logo: "/images/magic_logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -88,6 +88,15 @@ defaults:
     values:
       layout: post
       share: true
+      
+# Fund Logs; add new to "_meetings/XXXX-fund" as copy
+monero_fund_meetings:
+  - scope:
+      path: "_meetings/monero-fund"
+      type: posts
+    values:
+      layout: post
+      share: false
 
 # Site Author
 author:
