@@ -51,7 +51,7 @@ Donation options for fiat and cryptocurrencies are coming soon. Please [contact 
 ## Committee Minutes
 
 <ul class="post-list">
-{% for post in site.meetings.monero-fund.posts %}
+{% for post in meetings.monero-fund.posts %}
   <li><article><a href="{{ site.url }}{{ post.url }}"><div class="post-entry-title">{{ post.title }}</div> <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
   <hr>
 {% endfor %}
