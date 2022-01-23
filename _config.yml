@@ -88,15 +88,15 @@ defaults:
     values:
       layout: post
       share: true
-      
-# Fund Logs; add new to "_meetings/XXXX-fund" as copy
-monero_fund_meetings:
-  - scope:
-      path: "_meetings/monero-fund"
-      type: posts
-    values:
-      layout: post
-      share: false
+
+#Collections
+collections_dir: collections
+
+collections:
+  posts:
+    output: true
+  monero_fund_meetings:
+    output: true
 
 # Site Author
 author:
