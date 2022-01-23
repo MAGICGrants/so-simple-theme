@@ -89,15 +89,6 @@ defaults:
       layout: post
       share: true
 
-#Collections
-#collections_dir: collections
-
-#collections:
-#  posts:
-#    output: true
-#  monero_fund_meetings:
-#    output: true
-
 # Site Author
 author:
   name: MAGIC Grants Board
