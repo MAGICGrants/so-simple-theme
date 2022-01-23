@@ -90,11 +90,11 @@ defaults:
       share: true
 
 #Collections
-collections_dir: collections
+#collections_dir: collections
 
 collections:
-  posts:
-    output: true
+#  posts:
+#    output: true
   monero_fund_meetings:
     output: true
 
