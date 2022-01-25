@@ -55,7 +55,7 @@ MAGIC Grants has no specific position on using Quadratic Voting to allocate matc
 
 ## Be careful of the matching estimates
 
-Gitcoin shows matching estimates. At one point, the platform claimed that a [$1 contribution would be matched by $3204](https://twitter.com/NeerajKA/status/1466812177260679177). Coin Center raised a significant amount of money in the round: $103,839. However, [they received $340,000 in matching]((https://youtu.be/W-doVjkkZbg?t=2643)), or "only" a $3.27 match for every $1 on average.
+Gitcoin shows matching estimates. At one point, the platform claimed that a [$1 contribution would be matched by $3204](https://twitter.com/NeerajKA/status/1466812177260679177). Coin Center raised a significant amount of money in the round: $103,839. However, [they received $340,000 in matching](https://youtu.be/W-doVjkkZbg?t=2643), or "only" a $3.27 match for every $1 on average.
 
 While this is still generous matching, it's important to be cautious that these estimates are not definitive in any sense. Instead of participating in a straightforward matching process, you are participating in a far more complicated one.
 
