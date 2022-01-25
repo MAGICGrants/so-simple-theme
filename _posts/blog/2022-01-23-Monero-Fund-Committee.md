@@ -28,7 +28,7 @@ MAGIC Grants is pleased to announce the top 5 ranked committee members!
 
 **Deverick** is an application security developer for Blackbaud, a leading nonprofit cloud services platform. He co-planned the 2021 Monero Party.
 
-**Csilla Brimer** is a blockchain consultant at Willenrimer and a co-founder of the Open Economy Initiative. She planned co-planned the 2021 Monero Party.
+**Csilla Brimer** is a blockchain consultant at Willenrimer and a co-founder of the Open Economy Initiative. She co-planned the 2021 Monero Party.
 
 ## Special Thanks
 
