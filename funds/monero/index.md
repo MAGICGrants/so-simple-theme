@@ -50,3 +50,4 @@ Donation options for fiat and cryptocurrencies are coming soon. Please [contact 
 
 ## Committee Minutes
 
+* [2022-01-23](/funds/monero/minutes/2022-01-23)
