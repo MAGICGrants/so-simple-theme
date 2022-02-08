@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing 2 Research Grants for Lightning Network Privacy"
-except: "2.1 BTC is available from Wasabi Wallet, Dan Gershony, and Spiral. Research applications are now open through March 14th."
+excerpt: "2.1 BTC is available from Wasabi Wallet, Dan Gershony, and Spiral. Research applications are now open through March 14th."
 Author: magicboard
 ---
 
