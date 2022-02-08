@@ -21,7 +21,7 @@ You do not need to include all of your ideas in the application. Please apply wi
 
 ## Lightning Network Privacy Committee Members
 
-* Rafael Eronen (zkSNACKs Ltd.)
+* Rafe (zkSNACKs Ltd.)
 * Adam Ficsor (zkSNACKs Ltd.)
 * Conor Okus (Spiral)
 
