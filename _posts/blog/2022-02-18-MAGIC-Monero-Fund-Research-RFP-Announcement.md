@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "The MAGIC Monero Fund Is Now Accepting Research Grant Applications"
-excerpt: "The MAGIC Monero Fund is pleased to announce that it is now accepting applications for research grants focused on improving the Monero protocol and ecosystem."
+excerpt: "The MAGIC Monero Fund is now accepting applications for research grants focused on improving the Monero protocol and ecosystem."
 Author: magicmonerofund
 ---
 
