@@ -52,6 +52,8 @@ For fiat (USD) donation options, after donating in cryptocurrencies, and for oth
 
 ## Committee Minutes
 
+* [2022-02-20](/funds/monero/minutes/2022-02-20)
+* [2022-02-13](/funds/monero/minutes/2022-02-13)
 * [2022-02-06](/funds/monero/minutes/2022-02-06)
 * [2022-01-30](/funds/monero/minutes/2022-01-30)
 * [2022-01-23](/funds/monero/minutes/2022-01-23)
