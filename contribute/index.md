@@ -5,7 +5,7 @@ title: "Donate"
 
 ## Active Campaigns and Programs
 
-* [Firo Lelantus Spark Audit](/_posts/blog/Firo-Lelantus-Spark-Audit/)
+* [Firo Lelantus Spark Audit](/Firo-Lelantus-Spark-Audit/)
 * [MAGIC Monero Fund](/funds/monero/)
 
 ## General Donations
