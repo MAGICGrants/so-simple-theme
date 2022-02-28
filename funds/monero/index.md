@@ -44,7 +44,11 @@ Committee Members:
 
 ## Donate to the MAGIC Monero Fund
 
-Donation options for fiat and cryptocurrencies are coming soon. Please [contact us](mailto:info@magicgrants.org) if you are interested in donating in the meantime.
+* XMR: `86oadiEa7cDDRNbe1c89hUGeSyuVL7dL3c98b1LM2cMENLxcUeNn8WsUndirifDXALPT1L1pZD6cQdG7vB5FKSsdHVk5Kid`
+* BTC: `36qwtzKcUpGbkPfEeW92XCQ9Cc641464EP`
+* ETH: `0x754273831c3be375b027fc6df60eb08680e43236`
+
+For fiat (USD) donation options, after donating in cryptocurrencies, and for other donation options, please email [info@magicgrants.org](mailto:info@magicgrants.org) and specify that your donation should be allocated to the MAGIC Monero Fund.
 
 ## Committee Minutes
 
