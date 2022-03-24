@@ -32,7 +32,7 @@ Committee Members:
 
 ## MAGIC Monero Fund Achievements
 
-* None yet!
+* Funded [Security Audit of Ring Signature Resiliency Against Machine/Deep Learning Attacks](https://github.com/MAGICGrants/Monero-Fund/issues/15) by ACK-J for $12,000
 
 ## MAGIC Monero Fund Vision and Goals
 
