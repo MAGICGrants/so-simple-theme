@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC <Project> Fund TEMPLATE"
 ---
 
-*Updated 2021-12-01*
+*Updated 2022-04-12*
 
 ## Background
 
