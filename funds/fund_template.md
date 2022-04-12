@@ -99,7 +99,7 @@ As required by law, contractors and employees will be required to provide certai
 
 The MAGIC Fund Committee shall decide how to use the MAGIC Fund, including the application process and deadlines (if any) for grant applications. MAGIC Grants encourages consistency for most grants while still allowing for agile grants as appropriate.
 
-The MAGIC Fund Committee should require at least **3 votes** to approve grant disbursements and investment decisions. A committee quorum requires at least **3 committee members** to be present. These can be changed by the board (for example if a larger committee is desired). The board may optionally use a binding or a non-binding election to collect feedback on potentially changing these thresholds.
+The MAGIC Fund Committee requires at least **3 votes** to approve grant disbursements and investment decisions. A committee quorum requires at least **3 committee members** to be present. These can be changed by the board (for example if a larger committee is desired). The board may optionally use a binding or a non-binding election to collect feedback on potentially changing these thresholds.
 
 Selected MAGIC Fund investment decisions must comply with the MAGIC Investment Policy. MAGIC Grants allows MAGIC Funds to have wide discretion over their own investment policies so long as they are compatible with MAGIC’s Investment Policy.
 
@@ -192,4 +192,4 @@ Part A: This is the compensation allowable to committee members by Voters (modif
 
 Part B: This is the compensation allowable to committee members by the MAGIC Grants board (modifiable by the MAGIC Grants board only):
 
-* Contact MAGIC Grants for the [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits) document, modifiable from time to time without prior notice to reflect market conditions.
+* Review the [MAGIC Grants Committee Compensation Limits](/funds/committee_compensation_limits) document, modifiable from time to time without prior notice to reflect market conditions.
