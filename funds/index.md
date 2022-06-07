@@ -13,7 +13,7 @@ These are the existing MAGIC Funds. Please click on the one you are interested i
 
 ## Proposed / Pending MAGIC Funds
 
-None, but please contact us if you are interested in one!
+* [MAGIC Litecoin Fund]() - Speaking with various stakeholders
 
 ## About MAGIC Funds
 
