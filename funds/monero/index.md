@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund"
 ---
 
-MAGIC Grants is in the initial stages of starting a MAGIC Monero Fund. Please make sure to familiarize yourself with the important Fund details:
+MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Moenro ecosystem! Please make sure to familiarize yourself with the important Fund details:
 
 * [Monero Fund Document](/funds/monero/monero_fund)
 * [MAGIC Grants Policies](/about/documentation)
@@ -44,14 +44,17 @@ Committee Members:
 
 ## Donate to the MAGIC Monero Fund
 
+* [PayPal Giving Fund](https://www.paypal.com/fundraiser/charity/4112637) (must email [info@magicgrants.org](mailto:info@magicgrants.org) after the donation to indicate that your donation should be allocated to the MAGIC Monero Fund)
+* [PayPal](https://www.paypal.com/donate/?hosted_button_id=X4KCCXRSRZ65N) (auto recurring available, higher fees, no need to email)
 * XMR: `86oadiEa7cDDRNbe1c89hUGeSyuVL7dL3c98b1LM2cMENLxcUeNn8WsUndirifDXALPT1L1pZD6cQdG7vB5FKSsdHVk5Kid`
 * BTC: `36qwtzKcUpGbkPfEeW92XCQ9Cc641464EP`
 * ETH: `0x754273831c3be375b027fc6df60eb08680e43236`
 
-For fiat (USD) donation options, after donating in cryptocurrencies, and for other donation options, please email [info@magicgrants.org](mailto:info@magicgrants.org) and specify that your donation should be allocated to the MAGIC Monero Fund.
+After donating in cryptocurrencies, and for other donation options, please email [info@magicgrants.org](mailto:info@magicgrants.org) and specify that your donation should be allocated to the MAGIC Monero Fund.
 
 ## Committee Minutes
 
+* [2022-06-07](/funds/monero/minutes/2022-06-07)
 * [2022-05-31](/funds/monero/minutes/2022-05-31)
 * [2022-05-22](/funds/monero/minutes/2022-05-22)
 * [2022-05-15](/funds/monero/minutes/2022-05-15)
