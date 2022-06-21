@@ -11,7 +11,12 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Moenro ecosy
 
 ## Upcoming Dates
 
-Committee applications and voter nominations open December 2022.
+**The MAGIC Monero Fund is having a special election.**
+
+* [Committee applications due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **20 July 2022**
+* [Voter nominations due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **20 July 2022**
+* Election start date: **22 July 2022**
+* Election end date: **1 August 2022**
 
 ## Committee Candidates and Voter Nominations
 
