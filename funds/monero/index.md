@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund"
 ---
 
-MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Moenro ecosystem! Please make sure to familiarize yourself with the important Fund details:
+MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosystem! Please make sure to familiarize yourself with the important Fund details:
 
 * [Monero Fund Document](/funds/monero/monero_fund)
 * [MAGIC Grants Policies](/about/documentation)
