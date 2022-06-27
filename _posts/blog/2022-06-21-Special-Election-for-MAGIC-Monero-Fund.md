@@ -21,7 +21,7 @@ In this special election, we are asking two questions:
 
 1. Who should replace Vik as a committee member? Candidates are invited to apply by July 20th.
 
-2. Should 1) the new committee member serve the full remainder of the term (ending in January 2024) and the rest of the election cycle remain unchanged, or 2) the new committee member serve the remainder of a one year term (ending in January 2023), and have the third-ranked MAGIC Monero Fund candidate from the initial election kayabaNerve promoted to a longer term ending in January 2024.
+2. Should 1) the new committee member serve the remainder of the two year term (ending in January 2024), or 2) the new committee member serve the remainder of a one year term (ending in January 2023), and have the third-ranked MAGIC Monero Fund candidate from the initial election kayabaNerve promoted to a longer term ending in January 2024.
 
 Normally, terms are for two years. However, only the two most-voted for members of the inaugural committee were afforded two year terms, with the other three afforded one year terms.
 
@@ -33,8 +33,8 @@ Apply: [https://github.com/MAGICGrants/Monero-Fund/issues/new?assignees=&labels=
 
 See existing applicants: [https://github.com/MAGICGrants/Monero-Fund/issues](https://github.com/MAGICGrants/Monero-Fund/issues)
 
-* Open date: 22 June 2022
-* Due date: 20 July 2022
+* Open date: 27 June 2022
+* Due date: 25 July 2022
 
 Committee member expectations: [https://magicgrants.org/funds/committee_expectations/](/funds/committee_expectations/)
 
@@ -44,8 +44,8 @@ Committee members are encouraged to *also* apply as a Fund voter!
 
 Apply: [https://docs.google.com/forms/d/e/1FAIpQLSfrhCsooOiG4Nc9CUl5GN8cXXDIoxxrBUxM6GUaQfTyQHG5bw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfrhCsooOiG4Nc9CUl5GN8cXXDIoxxrBUxM6GUaQfTyQHG5bw/viewform?usp=sf_link)
 
-* Open date: 22 June 2022
-* Due date: 20 July 2022
+* Open date: 27 June 2022
+* Due date: 25 July 2022
 
 You may alternatively submit nominations by email to [info@magicgrants.org](mailto:info@magicgrants.org) that address the following:
 * Are you nominating yourself or nominating another person?
@@ -64,8 +64,8 @@ Voter expectations: [https://magicgrants.org/funds/voter_expectations/](/funds/v
 
 [https://magicgrants.org/funds/voting/](/funds/voting/)
 
-* Election start date: **22 July 2022**
-* Election end date: **1 August 2022**
+* Election start date: **27 July 2022**
+* Election end date: **5 August 2022**
 
 ## Help and Other Info
 
