@@ -42,7 +42,7 @@ Committee members are encouraged to *also* apply as a Fund voter!
 
 ## Apply as a Fund Voter
 
-Apply: [https://docs.google.com/forms/d/e/1FAIpQLSfrhCsooOiG4Nc9CUl5GN8cXXDIoxxrBUxM6GUaQfTyQHG5bw/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSfrhCsooOiG4Nc9CUl5GN8cXXDIoxxrBUxM6GUaQfTyQHG5bw/viewform?usp=sf_link)
+Apply: [https://docs.google.com/forms/d/e/1FAIpQLSfrhCsooOiG4Nc9CUl5GN8cXXDIoxxrBUxM6GUaQfTyQHG5bw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfrhCsooOiG4Nc9CUl5GN8cXXDIoxxrBUxM6GUaQfTyQHG5bw/viewform)
 
 * Open date: 27 June 2022
 * Due date: 25 July 2022
