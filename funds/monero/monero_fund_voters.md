@@ -28,6 +28,7 @@ title: "MAGIC Monero Fund Voters"
 * Hutnah
 * hyc
 * JR
+* Kavaliro
 * kayabaNerve
 * koe
 * Lee Clagett (vtnerd)
