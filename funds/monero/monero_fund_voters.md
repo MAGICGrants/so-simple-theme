@@ -27,10 +27,12 @@ title: "MAGIC Monero Fund Voters"
 * haosgames
 * Hutnah
 * hyc
+* JR
 * kayabaNerve
 * koe
 * Lee Clagett (vtnerd)
 * LocalMonero
+* Matt Kowal
 * midipoet
 * Monero PT
 * MoneroApe
