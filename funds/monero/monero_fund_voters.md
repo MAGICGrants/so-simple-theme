@@ -27,6 +27,7 @@ title: "MAGIC Monero Fund Voters"
 * haosgames
 * Hutnah
 * hyc
+* john_r365
 * JR
 * Kavaliro
 * kayabaNerve
@@ -41,6 +42,7 @@ title: "MAGIC Monero Fund Voters"
 * MSvB
 * needmoney90
 * omarsusername
+* Ornery_Maintenance
 * plowsof
 * PsYcK
 * Rucknium
