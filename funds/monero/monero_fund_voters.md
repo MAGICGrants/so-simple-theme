@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund Voters"
 ---
 
-*Updated 2022-01-03*
+*Updated 2022-07-07*
 
 [Check to see if voter nominations are open by clicking here](https://github.com/MAGICGrants/Monero-Fund).
 
