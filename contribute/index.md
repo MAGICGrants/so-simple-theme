@@ -3,6 +3,10 @@ layout: page
 title: "Donate"
 ---
 
+## Memberships
+
+MAGIC Grants is pleased to offer memberships! Memberships come with special perks and recognition. [Click here](/contribute/membership/) for more information about MAGIC Memberships.
+
 ## Active Campaigns and Programs
 
 * [Firo Lelantus Spark Audit](/Firo-Lelantus-Spark-Audit/)

@@ -49,6 +49,8 @@ Committee Members:
 
 ## Donate to the MAGIC Monero Fund
 
+[Become a member!](https://magicgrants.budibase.app/app/new-member#/home)! This comes with special perks, if desired. You can automatically allocate you contributions to this fund.
+
 * [PayPal Giving Fund](https://www.paypal.com/fundraiser/charity/4112637) (must email [info@magicgrants.org](mailto:info@magicgrants.org) after the donation to indicate that your donation should be allocated to the MAGIC Monero Fund)
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=X4KCCXRSRZ65N) (auto recurring available, higher fees, no need to email)
 * XMR: `86oadiEa7cDDRNbe1c89hUGeSyuVL7dL3c98b1LM2cMENLxcUeNn8WsUndirifDXALPT1L1pZD6cQdG7vB5FKSsdHVk5Kid`
