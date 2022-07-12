@@ -14,7 +14,7 @@ MAGIC Grants is pleased to [offer memberships](https://magicgrants.budibase.app/
 You may optionally pass on any/all of these perks if you like. 
 
 * A Matrix account with E2E encrypted messages on the MAGIC Grants server, which is profesionally administered by Element for high uptime.
-* A special flair on the r/Monero subreddit that says `MAGIC Monero Fund Member`.
+* A special flair on participating subreddits that are related to the fund you donate to.
 * Recognition on our website.
 
 ## Membership Cost
