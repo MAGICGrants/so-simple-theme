@@ -19,7 +19,7 @@ You may optionally pass on any/all of these perks if you like.
 
 ## Membership Cost
 
-A memberships are essential for supporting the cryptocurrency community.
+Memberships are essential for supporting the cryptocurrency community.
 
 * Monthly: $50 or more (card payment only)
 * Annual: $600 or more (crypto or card payment)
