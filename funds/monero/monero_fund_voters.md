@@ -32,6 +32,8 @@ title: "MAGIC Monero Fund Voters"
 * JR
 * Kavaliro
 * kayabaNerve
+* kinghat
+* Kitsune333
 * koe
 * Lee Clagett (vtnerd)
 * LocalMonero
