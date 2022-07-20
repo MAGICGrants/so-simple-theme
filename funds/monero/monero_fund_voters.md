@@ -28,6 +28,7 @@ title: "MAGIC Monero Fund Voters"
 * haosgames
 * Hutnah
 * hyc
+* John Foss
 * john_r365
 * JR
 * Kavaliro
