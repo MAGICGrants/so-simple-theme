@@ -118,3 +118,7 @@ footer_links:
     url: atom.xml
     icon: images/rss.png
 
+# Needed for Jekyll to deliver . folders
+# We use this for Matrix
+include:
+  - .well-known
