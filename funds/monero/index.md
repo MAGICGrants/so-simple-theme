@@ -13,10 +13,10 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosy
 
 **The MAGIC Monero Fund is having a special election.**
 
-* [Committee applications due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **20 July 2022**
-* [Voter nominations due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **20 July 2022**
-* Election start date: **22 July 2022**
-* Election end date: **1 August 2022**
+* [Committee applications due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **25 July 2022**
+* [Voter nominations due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **25 July 2022**
+* Election start date: **27 July 2022**
+* Election end date: **5 August 2022**
 
 ## Committee Candidates and Voter Nominations
 
@@ -62,6 +62,7 @@ After donating in cryptocurrencies, and for other donation options, please email
 
 ## Committee Minutes
 
+* [2022-06-12](/funds/monero/minutes/2022-06-12)
 * [2022-06-07](/funds/monero/minutes/2022-06-07)
 * [2022-05-31](/funds/monero/minutes/2022-05-31)
 * [2022-05-22](/funds/monero/minutes/2022-05-22)
