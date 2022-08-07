@@ -11,27 +11,24 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosy
 
 ## Upcoming Dates
 
-**The MAGIC Monero Fund is having a special election.**
+No upcoming dates in the near future.
 
-* [Committee applications due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **25 July 2022**
-* [Voter nominations due](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/): **25 July 2022**
-* Election start date: **27 July 2022**
-* Election end date: **5 August 2022**
-
+<!---
 ## Committee Candidates and Voter Nominations
 
 [Announce your candidacy and view the candidacy of others on GitHub](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/). You need a GitHub account to apply.
 
 [View Voter nomination instructions in this post](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/). Nominations can be submitted by Google Form or by email.
+-->
 
 ## Existing Committee Members and Voters
 
 Committee Members:
-* Vik Sharma
 * Rucknium
 * kayabaNerve
 * Deverick
 * Csilla Brimer
+* monerobull
 
 [List of all voters](/funds/monero/monero_fund_voters)
 
