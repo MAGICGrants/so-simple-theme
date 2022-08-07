@@ -14,7 +14,7 @@ MAGIC Grants used a ranked-choice voting method, which allows voters to specify 
 
 monerobull has been selected to join the MAGIC Monero Fund committee.
 
-They will serve the remainer of a 1-year term ending in January 2023. kayabaNerve will be promoted to a 2-year term ending in Janury 2024.
+They will serve the remainer of a 1-year term ending in January 2023. kayabaNerve will be promoted to a 2-year term ending in January 2024.
 
 monerobull is a distributor of marketing materials for Monero Outreach and moderates various communication channels of the Monero community. 
 
