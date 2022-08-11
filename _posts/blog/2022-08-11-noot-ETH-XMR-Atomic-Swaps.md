@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Campaign to continue ETH-XMR atomic swap development"
+title: "Campaign to Continue ETH-XMR Atomic Swap Development"
 excerpt: "noot is raising funds through the MAGIC Monero Fund to continue ETH-XMR atomic swap development"
 date: 2022-08-11
 author: magicboard
@@ -14,25 +14,25 @@ You can also donate with credit/debit directly on GoFundMe.
 
 This proposal covers 4 months of work focused on the following:
 
-1. Relayer support
+### Relayer support
 
 The current implementation of the protocol requires the ETH-recipient to have some ETH in their claiming account to pay for the transaction fees to claim the swap ETH. However, this is bad for UX and privacy, as users cannot withdraw to fresh ETH accounts.
 
 To allow for users to claim ETH into a fresh account, integration with a relayer service can be implemented. This will allow users to withdraw to a fresh account by paying a small fee to a relayer to submit the transaction on their behalf.
 
-2. Ethereum privacy improvements
+### Ethereum privacy improvements
 
 On the ETH side of the swap, there is no privacy, and which accounts and amounts participating in the swap are visible.
 
-3. ERC20 support
+### ERC20 support
 
 To support swaps for ERC20s without hurting liquidity, the swap contract can be integrated with a DEX such as Uniswap to automat-ically swap received ETH for the desired ERC20 token.
 
-4. Disk permanence
+### Disk permanence
 
 The current implementation of the swap does not store anything to disk apart from information needed for recovery of swap funds in case of failure. However, there are other components that should be stored to disk and restored upon reload, such as current swap of-fers made, historic swap information, and peer information. This will require a simple key-value database implementation.
 
-5. General maintenance and bugfixes
+### General maintenance and bugfixes
 
 See https://github.com/noot/atomic-swap/issues for open issues on the repo. Issues not covered by the above work are part of this sec-tion. This includes RPC calls and documentation, codebase maintenance, testing, and fixes of any bugs found during testing.
 
