@@ -6,7 +6,7 @@ date: 2022-09-13
 author: magicboard
 ---
 
-MAGIC Grants and the [MAGIC Monero Fund](/funds/monero) are extremely pleased to announce the final research paper by ACK-J on Monero ring signatures. ACK-J created a series of Monero transacions using different spend patterns and applied artificial intelligence models to determine the resiliency of ring signatures against these models absent external information.
+MAGIC Grants and the [MAGIC Monero Fund](/funds/monero) are extremely pleased to announce the final research paper by ACK-J on Monero ring signatures. ACK-J created a series of Monero transactions using different spend patterns and applied artificial intelligence models to determine the resiliency of ring signatures against these models absent external information.
 
 The full paper entitled "Lord of the Rings: An Empirical Analysis of Monero's Ring Signature Resilience to Artifically Intelligent Attacks" is available [on the author's GitHub](https://raw.githubusercontent.com/ACK-J/Monero-Dataset-Pipeline/main/Lord_of_the_Rings__An_Empirical_Analysis_of_Monero_s_Ring_Signature_Resilience_to_Artificially_Intelligent_Attacks.pdf), along with [the accompanying dataset pipeline](https://github.com/ACK-J/Monero-Dataset-Pipeline).
 
