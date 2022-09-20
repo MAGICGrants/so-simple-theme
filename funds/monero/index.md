@@ -59,6 +59,12 @@ After donating in cryptocurrencies, and for other donation options, please email
 
 ## Committee Minutes
 
+* [2022-09-13](/funds/monero/minutes/2022-09-13)
+* [2022-08-30](/funds/monero/minutes/2022-08-30)
+* [2022-08-23](/funds/monero/minutes/2022-08-23)
+* [2022-08-16](/funds/monero/minutes/2022-08-16)
+* [2022-08-09](/funds/monero/minutes/2022-08-09)
+* [2022-08-02](/funds/monero/minutes/2022-08-02)
 * [2022-07-26](/funds/monero/minutes/2022-07-26)
 * [2022-07-19](/funds/monero/minutes/2022-07-19)
 * [2022-07-12](/funds/monero/minutes/2022-07-12)
