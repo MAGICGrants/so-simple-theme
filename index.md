@@ -2,11 +2,11 @@
 layout: page
 title: "Welcome to MAGIC Grants!"
 ignore_title: true
-excerpt: "MAGIC is a 501(c)(3) public charity focused on financial privacy. Our mission is to build and support the technology infrastructure that will enable people to control their own financial data."
+excerpt: "MAGIC is a 501(c)(3) public charity focused on financial privacy. Our mission is to build and support the public infrastructure that will enable people to control their own financial data."
 ---
 
 
-MAGIC Grants is a public charity that provides undergraduate scholarships for students interested in cryptocurrencies and supports various critical cryptocurrency public payment infrastructure.
+MAGIC Grants is a public charity that provides undergraduate scholarships for students interested in cryptocurrencies and privacy, supports cryptocurrency public payment infrastructure, and supports privacy.
 
 ## Newsletter and Discord
 
