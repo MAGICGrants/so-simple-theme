@@ -35,6 +35,7 @@ Committee Members:
 ## MAGIC Monero Fund Achievements
 
 * Funded [Security Audit of Ring Signature Resiliency Against Machine/Deep Learning Attacks](https://github.com/MAGICGrants/Monero-Fund/issues/15) by ACK-J for $12,000
+* Funded [4 months of ETH-XMR atomic swap research and development](https://www.gofundme.com/f/noot-ethxmr-atomic-swap-development-4-months) by noot for $23,477
 
 ## MAGIC Monero Fund Vision and Goals
 
