@@ -9,8 +9,8 @@ MAGIC Grants is pleased to offer memberships! Memberships come with special perk
 
 ## Active Campaigns and Programs
 
-* [Firo Lelantus Spark Audit](/Firo-Lelantus-Spark-Audit/)
 * [MAGIC Monero Fund](/funds/monero/)
+* [MAGIC Monero Fund campaigns](https://monerofund.org)
 
 ## General Donations
 
