@@ -11,29 +11,33 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosy
 
 ## Upcoming Dates
 
-No upcoming dates in the near future.
+* 5 December 2022: Committee and voter nominations open
+* 31 December 2022: Committee and voter nominations close
+* 6 January 2023: Voting opens
+* 20 January 2023: Voting closes
+* ~23 January 2023: Election results announced
+* 31 January 2023: Newly elected members join the committee
 
-<!---
+<!-- No upcoming dates in the near future. -->
+
 ## Committee Candidates and Voter Nominations
 
-[Announce your candidacy and view the candidacy of others on GitHub](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/). You need a GitHub account to apply.
-
-[View Voter nomination instructions in this post](https://magicgrants.org/Special-Election-for-MAGIC-Monero-Fund/). Nominations can be submitted by Google Form or by email.
--->
+[Announce your candidacy, view the candidacy of others, and apply to be a voter on GitHub](https://github.com/MAGICGrants/Monero-Fund-Elections). You need a GitHub account to be a committee member candidate.
 
 ## Existing Committee Members and Voters
 
 Committee Members:
-* Rucknium
-* kayabaNerve
-* Deverick
-* Csilla Brimer
-* monerobull
+* Rucknium (term until 2024-01)
+* kayabaNerve (term until 2024-01)
+* Deverick (term until 2023-01)
+* Csilla Brimer (term until 2023-01)
+* monerobull (term until 2023-01)
 
 [List of all voters](/funds/monero/monero_fund_voters)
 
 ## MAGIC Monero Fund Achievements
 
+* Built open source crowdfunding platform [MoneroFund.org](https://monerofund.org)
 * Funded [Security Audit of Ring Signature Resiliency Against Machine/Deep Learning Attacks](https://github.com/MAGICGrants/Monero-Fund/issues/15) by ACK-J for $12,000
 * Funded [4 months of ETH-XMR atomic swap research and development](https://www.gofundme.com/f/noot-ethxmr-atomic-swap-development-4-months) by noot for $23,477
 
