@@ -17,7 +17,7 @@ Voter applications and committee candidate announcements are now available for t
 
 There are 3 committee member seats up for election. Incumbents are allowed to run again.
 
-**To apply to be a voter or committee member, and to see the expections, please [click here](https://github.com/MAGICGrants/Monero-Fund-Elections).**
+**To apply to be a voter or committee member, and to see the expectations, please [click here](https://github.com/MAGICGrants/Monero-Fund-Elections).**
 
 Being an active committee member of the MAGIC Monero Fund is one of the most impactful ways to give back to the Monero community.
 
