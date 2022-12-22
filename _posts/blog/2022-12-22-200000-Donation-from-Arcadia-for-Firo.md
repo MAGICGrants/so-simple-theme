@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAGIC Grants Receives $200,000 Donation from The Arcadia Media Group for Firo Ecosystem"
+title: "MAGIC Grants Receives $200,000 Donation from Arcadia for Firo Ecosystem"
 excerpt: "This generous donation will go towards research, development, security reviews, and more in the Firo ecosystem"
 date: 2022-12-22
 author: magicboard
