@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund Voters"
 ---
 
-*Updated 2022-07-27*
+*Updated 2023-01-05*
 
 [Check to see if voter nominations are open by clicking here](https://github.com/MAGICGrants/Monero-Fund).
 
@@ -13,12 +13,14 @@ title: "MAGIC Monero Fund Voters"
 * Aharonov_Bohm
 * anhdres
 * Bellamy
+* blankpage
 * bobbieweirder
 * carrington
 * cbster
 * charuto
 * CryptoGrampy
 * Cyphermoney
+* dangerousfreedom
 * Danson
 * dEBRUYNE
 * Deverick
@@ -39,23 +41,27 @@ title: "MAGIC Monero Fund Voters"
 * koe
 * Lee Clagett (vtnerd)
 * LocalMonero
+* Mark132012
 * Matt Kowal
 * midipoet
 * Monero PT
 * MoneroApe
 * MoneroBoating
 * monerobull
+* moneroship
 * MoneroWTF
 * MSvB
 * needmoney90
 * omarsusername
 * Ornery_Maintenance
+* Paul Janowitz
 * plowsof
 * PsYcK
 * Rucknium
 * Sean O'Brien
 * SerHack
 * Seth for Privacy
+* sp00f
 * Sunchakr
 * Syketale
 * tallest-man
