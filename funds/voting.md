@@ -35,7 +35,7 @@ Here are some handy tips to set up the voting process:
 * Verify the list of voters is the latest version. CIVS supports uploading voter email lists.
 * You will need to make one poll per question.
 * [Click here to create a CIVS poll](https://civs1.civs.us/civs_create.html).
-* Name the poll appropriately. This is shown to all voters.
+* Name the poll appropriately. This is shown to all voters. Eg: "MAGIC Monero Fund 2023-01 (1 of 1)"
 * Add your name as the supervisor or use `MAGIC Board`.
 * Use the info@magicgrants.org email as the supervisor. Do not use a Fund email (eg: MoneroFund@magicgrants.org) since this will give improper permissions to the committee members.
 * Add the proper day and time that the poll will stop. Polls need to be stopped manually by the supervisor (you).
@@ -44,7 +44,7 @@ Here are some handy tips to set up the voting process:
 * Check the candidate details again for accuracy.
 * Change the number of winning choices to the appropriate number.
 * Keep the poll as "Private."
-* Select "Do not release results to all voters" and add the email info@magicgrants.org under the " Enter email addresses of users permitted to view poll results: (All voters can see these email addresses)" box.
+* Select "Do not release results to all voters" and add the email info@magicgrants.org under the "Enter email addresses of users permitted to view poll results: (All voters can see these email addresses)" box.
 * Select "Enable detailed ballot reporting."
 * Select "In detailed ballot report, also reveal the identity of the voter with each ballot." This allows us to confirm who votes.
 * Only select "Enforce proportional representation" if this is desired by the community. This will calculate winners differently to make a more proportional committee that represents different voting bases instead of selecting the top condorcet winners. [Click here](https://civs1.civs.us/proportional.html) for more information.
