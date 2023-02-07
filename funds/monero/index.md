@@ -9,16 +9,13 @@ MAGIC Grants is pleased to offer a MAGIC Monero Fund to support the Monero ecosy
 * [MAGIC Grants Policies](/about/documentation)
 * [Voting Process](/funds/voting/)
 
+## Donate
+
+Donate to the committee and projects here: [MoneroFund.org](https://monerofund.org)
+
 ## Upcoming Dates
 
-* 5 December 2022: Committee and voter nominations open
-* 31 December 2022: Committee and voter nominations close
-* 6 January 2023: Voting opens
-* 20 January 2023: Voting closes
-* ~23 January 2023: Election results announced
-* 31 January 2023: Newly elected members join the committee
-
-<!-- No upcoming dates in the near future. -->
+No upcoming dates in the near future.
 
 ## Committee Candidates and Voter Nominations
 
@@ -49,7 +46,7 @@ Committee Members:
 * Fund Monero security audits.
 * Run essential services that support the Monero ecosystem.
 
-## Donate to the MAGIC Monero Fund
+## Other ways to contribute
 
 [Become a member!](https://magicgrants.budibase.app/app/new-member#/home)! This comes with special perks, if desired. You can automatically allocate you contributions to this fund.
 
@@ -57,6 +54,12 @@ Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 
 ## Committee Minutes
 
+* [2023-01-17](/funds/monero/minutes/2022-11-08)
+* [2023-01-10](/funds/monero/minutes/2022-11-08)
+* [2022-12-20](/funds/monero/minutes/2022-11-08)
+* [2022-12-06](/funds/monero/minutes/2022-11-08)
+* [2022-11-22](/funds/monero/minutes/2022-11-08)
+* [2022-11-15](/funds/monero/minutes/2022-11-08)
 * [2022-11-08](/funds/monero/minutes/2022-11-08)
 * [2022-11-01](/funds/monero/minutes/2022-11-01)
 * [2022-10-18](/funds/monero/minutes/2022-10-18)
