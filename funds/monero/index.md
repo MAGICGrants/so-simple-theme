@@ -26,9 +26,9 @@ No upcoming dates in the near future.
 Committee Members:
 * Rucknium (term until 2024-01)
 * kayabaNerve (term until 2024-01)
-* Deverick (term until 2023-01)
-* Csilla Brimer (term until 2023-01)
-* monerobull (term until 2023-01)
+* monerobull (term until 2025-01)
+* artlimber (term until 2025-01)
+* Majestic Bank (term until 2025-01)
 
 [List of all voters](/funds/monero/monero_fund_voters)
 
@@ -54,12 +54,12 @@ Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 
 ## Committee Minutes
 
-* [2023-01-17](/funds/monero/minutes/2022-11-08)
-* [2023-01-10](/funds/monero/minutes/2022-11-08)
-* [2022-12-20](/funds/monero/minutes/2022-11-08)
-* [2022-12-06](/funds/monero/minutes/2022-11-08)
-* [2022-11-22](/funds/monero/minutes/2022-11-08)
-* [2022-11-15](/funds/monero/minutes/2022-11-08)
+* [2023-01-17](/funds/monero/minutes/2023-01-17)
+* [2023-01-10](/funds/monero/minutes/2023-01-10)
+* [2022-12-20](/funds/monero/minutes/2022-12-20)
+* [2022-12-06](/funds/monero/minutes/2022-12-06)
+* [2022-11-22](/funds/monero/minutes/2022-11-22)
+* [2022-11-15](/funds/monero/minutes/2022-11-15)
 * [2022-11-08](/funds/monero/minutes/2022-11-08)
 * [2022-11-01](/funds/monero/minutes/2022-11-01)
 * [2022-10-18](/funds/monero/minutes/2022-10-18)
