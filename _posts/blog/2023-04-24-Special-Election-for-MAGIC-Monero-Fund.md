@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Special Election for MAGIC Monero Fund"
-excerpt: "MajesitcBank has been removed from the committee due to inactivty, and a special election will occur for their vacant seat"
+excerpt: "MajesticBank has been removed from the committee due to inactivty, and a special election will occur for their vacant seat"
 date: 2023-04-24
 author: magicboard
 ---
