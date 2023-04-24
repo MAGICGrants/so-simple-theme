@@ -10,7 +10,7 @@ The MAGIC Grants board has decided to remove MajesticBank from the MAGIC Monero 
 
 **We are looking for new MAGIC Monero Fund committee candidates for this special election.**
 
-MajesticBank's term was initially supposed to last two years, ending in January 2025. The elected committee member will sever the remainder of this term.
+MajesticBank's term was initially supposed to last two years, ending in January 2025. The elected committee member will serve the remainder of this term.
 
 ## Appy as a Committee Fund Member
 
