@@ -10,6 +10,7 @@ MAGIC Funds are an innovative way for MAGIC Grants to support important cryptocu
 These are the existing MAGIC Funds. Please click on the one you are interested in learning more about:
 
 * [MAGIC Monero Fund](/funds/monero/)
+* [MAGIC Firo Fund](/funds/firo/)
 
 ## Proposed / Pending MAGIC Funds
 
