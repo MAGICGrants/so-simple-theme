@@ -28,7 +28,7 @@ Committee Members:
 * kayabaNerve (term until 2024-01)
 * monerobull (term until 2025-01)
 * artlimber (term until 2025-01)
-* Majestic Bank (term until 2025-01)
+* kowalabearhugs (term until 2025-01)
 
 [List of all voters](/funds/monero/monero_fund_voters)
 
