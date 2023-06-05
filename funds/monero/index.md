@@ -54,6 +54,27 @@ Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 
 ## Committee Minutes
 
+<ul class="post-list">
+{% for minute in site.monerofundminutes limit:10 %}
+  <li><article><a href="{{ site.url }}{{ minute.url }}"><div class="post-entry-title">{{ minute.title }}</div> <span class="entry-date"><time datetime="{{ minute.date | date_to_xmlschema }}">{{ minute.date | date: "%B %d, %Y" }}</time></span>{% if minute.excerpt %} <span class="excerpt">{{ minute.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+  <hr>
+{% endfor %}
+</ul>
+
+* [2023-05-23](/funds/monero/minutes/2023-05-23)
+* [2023-05-16](/funds/monero/minutes/2023-05-16)
+* [2023-05-02](/funds/monero/minutes/2023-05-02)
+* [2023-04-25](/funds/monero/minutes/2023-04-25)
+* [2023-04-18](/funds/monero/minutes/2023-04-18)
+* [2023-04-11](/funds/monero/minutes/2023-04-11)
+* [2023-03-28](/funds/monero/minutes/2023-03-28)
+* [2023-03-21](/funds/monero/minutes/2023-03-21)
+* [2023-03-14](/funds/monero/minutes/2023-03-14)
+* [2023-03-07](/funds/monero/minutes/2023-03-07)
+* [2023-02-28](/funds/monero/minutes/2023-02-28)
+* [2023-02-21](/funds/monero/minutes/2023-02-21)
+* [2023-02-14](/funds/monero/minutes/2023-02-14)
+* [2023-02-07](/funds/monero/minutes/2023-02-07)
 * [2023-01-17](/funds/monero/minutes/2023-01-17)
 * [2023-01-10](/funds/monero/minutes/2023-01-10)
 * [2022-12-20](/funds/monero/minutes/2022-12-20)
