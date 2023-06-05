@@ -79,6 +79,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+collections_dir: posts
+
+collections:
+  monerofundminutes:
+    output: true
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
