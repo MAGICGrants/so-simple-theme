@@ -55,68 +55,12 @@ Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 ## Committee Minutes
 
 <ul class="post-list">
-{% for minute in site.monerofundminutes reversed limit:10 %}
+{% for minute in site.monerofundminutes reversed %}
   <li><article><a href="{{ site.url }}{{ minute.url }}"><div class="post-entry-title">{{ minute.title }}</div> <span class="entry-date"><time datetime="{{ minute.date | date_to_xmlschema }}">{{ minute.date | date: "%B %d, %Y" }}</time></span>{% if minute.excerpt %} <span class="excerpt">{{ minute.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
   <hr>
 {% endfor %}
 </ul>
 
+<!--
 [Archive of older minutes](https://github.com/MAGICGrants/website/tree/master/posts/_monerofundminutes)
-
-* [2023-05-23](/funds/monero/minutes/2023-05-23)
-* [2023-05-16](/funds/monero/minutes/2023-05-16)
-* [2023-05-02](/funds/monero/minutes/2023-05-02)
-* [2023-04-25](/funds/monero/minutes/2023-04-25)
-* [2023-04-18](/funds/monero/minutes/2023-04-18)
-* [2023-04-11](/funds/monero/minutes/2023-04-11)
-* [2023-03-28](/funds/monero/minutes/2023-03-28)
-* [2023-03-21](/funds/monero/minutes/2023-03-21)
-* [2023-03-14](/funds/monero/minutes/2023-03-14)
-* [2023-03-07](/funds/monero/minutes/2023-03-07)
-* [2023-02-28](/funds/monero/minutes/2023-02-28)
-* [2023-02-21](/funds/monero/minutes/2023-02-21)
-* [2023-02-14](/funds/monero/minutes/2023-02-14)
-* [2023-02-07](/funds/monero/minutes/2023-02-07)
-* [2023-01-17](/funds/monero/minutes/2023-01-17)
-* [2023-01-10](/funds/monero/minutes/2023-01-10)
-* [2022-12-20](/funds/monero/minutes/2022-12-20)
-* [2022-12-06](/funds/monero/minutes/2022-12-06)
-* [2022-11-22](/funds/monero/minutes/2022-11-22)
-* [2022-11-15](/funds/monero/minutes/2022-11-15)
-* [2022-11-08](/funds/monero/minutes/2022-11-08)
-* [2022-11-01](/funds/monero/minutes/2022-11-01)
-* [2022-10-18](/funds/monero/minutes/2022-10-18)
-* [2022-10-11](/funds/monero/minutes/2022-10-11)
-* [2022-09-27](/funds/monero/minutes/2022-09-27)
-* [2022-09-13](/funds/monero/minutes/2022-09-13)
-* [2022-09-06](/funds/monero/minutes/2022-09-06)
-* [2022-08-30](/funds/monero/minutes/2022-08-30)
-* [2022-08-23](/funds/monero/minutes/2022-08-23)
-* [2022-08-16](/funds/monero/minutes/2022-08-16)
-* [2022-08-09](/funds/monero/minutes/2022-08-09)
-* [2022-08-02](/funds/monero/minutes/2022-08-02)
-* [2022-07-26](/funds/monero/minutes/2022-07-26)
-* [2022-07-19](/funds/monero/minutes/2022-07-19)
-* [2022-07-12](/funds/monero/minutes/2022-07-12)
-* [2022-06-28](/funds/monero/minutes/2022-06-28)
-* [2022-06-21](/funds/monero/minutes/2022-06-21)
-* [2022-06-07](/funds/monero/minutes/2022-06-07)
-* [2022-05-31](/funds/monero/minutes/2022-05-31)
-* [2022-05-22](/funds/monero/minutes/2022-05-22)
-* [2022-05-15](/funds/monero/minutes/2022-05-15)
-* [2022-05-08](/funds/monero/minutes/2022-05-08)
-* [2022-05-01](/funds/monero/minutes/2022-05-01)
-* [2022-04-24](/funds/monero/minutes/2022-04-24)
-* [2022-04-17](/funds/monero/minutes/2022-04-17)
-* [2022-04-10](/funds/monero/minutes/2022-04-10)
-* [2022-04-03](/funds/monero/minutes/2022-04-03)
-* [2022-03-27](/funds/monero/minutes/2022-03-27)
-* [2022-03-20](/funds/monero/minutes/2022-03-20)
-* [2022-03-13](/funds/monero/minutes/2022-03-13)
-* [2022-03-06](/funds/monero/minutes/2022-03-06)
-* [2022-02-27](/funds/monero/minutes/2022-02-27)
-* [2022-02-20](/funds/monero/minutes/2022-02-20)
-* [2022-02-13](/funds/monero/minutes/2022-02-13)
-* [2022-02-06](/funds/monero/minutes/2022-02-06)
-* [2022-01-30](/funds/monero/minutes/2022-01-30)
-* [2022-01-23](/funds/monero/minutes/2022-01-23)
+-->
