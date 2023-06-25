@@ -55,12 +55,11 @@ Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 ## Committee Minutes
 
 <ul class="post-list">
-{% for minute in site.monerofundminutes reversed %}
+{% assign monerofundminutes = site.monerofundminutes | sort: 'date' | reverse %}
+{% for minute in monerofundminutes limit:10 %}
   <li><article><a href="{{ site.url }}{{ minute.url }}"><div class="post-entry-title">{{ minute.title }}</div> <span class="entry-date"><time datetime="{{ minute.date | date_to_xmlschema }}">{{ minute.date | date: "%B %d, %Y" }}</time></span>{% if minute.excerpt %} <span class="excerpt">{{ minute.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
   <hr>
 {% endfor %}
 </ul>
 
-<!--
 [Archive of older minutes](https://github.com/MAGICGrants/website/tree/master/posts/_monerofundminutes)
--->
