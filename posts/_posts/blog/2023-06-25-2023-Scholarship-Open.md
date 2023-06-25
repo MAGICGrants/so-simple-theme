@@ -1,14 +1,11 @@
 ---
-layout: page
+layout: post
+title: "2023 Scholarship Applications Are Now Open!"
+excerpt: "We are distributing three $2,000 scholarships to undergraduate students who are interested in cryptocurrencies."
+Author: magicboard
 ---
 
-<!--
-## Applications Will Open in Spring 2023
-
-Please check back later! You can [join our Discord](https://discord.gg/YH7kFuREKY) in the meantime.
--->
-
-## 2023-2024 Applications Are Now Open!
+## 2023-2024 Scholarship Applications Are Now Open!
 
 MAGIC Grants offers undergraduate scholarships to students who are interested in cryptocurrencies. This year, three (3) recipients will each receive $2,000 ($1,000 per semester) paid directly to the educational institution.
 
