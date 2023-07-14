@@ -6,7 +6,7 @@ date: 2022-12-22
 author: magicboard
 ---
 
-MAGIC Grants is extremely excited to announce a generous donation from [Arcadia](https://www.arcadiamgroup.com/)! Their $200,000 tax-deductible donation will go towards Firo ecosystem improvements, including research, development, security reviews, educational materials, and more.
+MAGIC Grants is extremely excited to announce a generous donation from [Arcadia](https://arcadia.agency)! Their $200,000 tax-deductible donation will go towards Firo ecosystem improvements, including research, development, security reviews, educational materials, and more.
 
 MAGIC Grants is communicating with Reuben Yap and Rasikh Morani to create an action plan for these funds to be put to best use. One option on the table is the creation of a MAGIC Firo Fund with its own steering committee.
 
