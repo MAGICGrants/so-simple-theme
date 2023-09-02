@@ -16,8 +16,6 @@ MAGIC Grants is pleased to offer memberships! Memberships come with special perk
 
 General donations go towards various charitable programs, including our scholarship programs and overhead costs.
 
-[Donate Most Cryptocurrencies with GloBee](https://globee.com/en/donate/4G3rZQEjbDdonq9n80gmxM)
-
 [Donate Credit/Debit with PayPal](https://www.paypal.com/us/fundraiser/charity/4112637)
 
 For other donation options including cryptocurrencies and large amounts, please contact [info@magicgrants.org](mailto:info@magicgrants.org).
