@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Progress on Firo's Security Retainer"
+title: "Progress on Firo's Security Retainer with HashCloak"
 excerpt: "Firo fuzz tests have significantly greater coverage, and HashCloak identified security issues with Lelantus Spark and suggested fixes."
 date: 2023-10-10
 author: magicboard
