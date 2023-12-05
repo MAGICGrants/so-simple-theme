@@ -3,6 +3,9 @@ layout: page
 title: "Membership"
 ---
 
+MAGIC Grants has paused memberships. If you are interested in a membership program, please contact info@magicgrants.org.
+
+<!---
 MAGIC Grants is pleased to [offer memberships](https://magicgrants.budibase.app/app/new-member#/home)! Memberships come with special perks and recognition. Allocate your donation to MAGIC Grants or to a MAGIC Fund of your choice!
 
 ## Special Perks
@@ -43,3 +46,4 @@ To learn more about MAGIC Funds, please [click here](/funds/).
 ## Why should I become a member?
 
 At MAGIC Grants, we help to redirect some of the wealth generated in the cryptocurrency world back towards improving the ecosystem of your choice. Learn more about MAGIC Grants [here](/about/).
+--->

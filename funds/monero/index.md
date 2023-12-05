@@ -15,7 +15,12 @@ Donate to the committee and projects here: [MoneroFund.org](https://monerofund.o
 
 ## Upcoming Dates
 
-No upcoming dates in the near future.
+* 5 December 2023: Committee and voter nominations open
+* 31 December 2023: Committee and voter nominations close
+* 6 January 2024: Voting opens
+* 20 January 2024: Voting closes
+* ~23 January 2024: Election results announced
+* 31 January 2024: Newly elected members join the committee
 
 ## Committee Candidates and Voter Nominations
 
@@ -47,8 +52,6 @@ Committee Members:
 * Run essential services that support the Monero ecosystem.
 
 ## Other ways to contribute
-
-[Become a member!](https://magicgrants.budibase.app/app/new-member#/home)! This comes with special perks, if desired. You can automatically allocate you contributions to this fund.
 
 Donate cryptocurrency and fiat on [MoneroFund.org](https://monerofund.org).
 
