@@ -18,6 +18,7 @@ title: "MAGIC Monero Fund Voters"
 * carrington
 * cbster
 * charuto
+* Chaser
 * CryptoGrampy
 * Cyphermoney
 * dangerousfreedom
@@ -43,6 +44,7 @@ title: "MAGIC Monero Fund Voters"
 * LocalMonero
 * Mark132012
 * Matt Kowal
+* Mclovin
 * midipoet
 * Monero PT
 * MoneroApe
