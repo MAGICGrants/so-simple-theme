@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund Voters"
 ---
 
-*Updated 2023-01-05*
+*Updated 2024-01-01*
 
 [Check to see if voter nominations are open by clicking here](https://github.com/MAGICGrants/Monero-Fund).
 
@@ -26,6 +26,7 @@ title: "MAGIC Monero Fund Voters"
 * dEBRUYNE
 * Deverick
 * Douglas Tuman
+* Douglas_McSqueaky
 * Edwin den Boer (ProkhorZ)
 * Garrett See
 * gingeropolous
