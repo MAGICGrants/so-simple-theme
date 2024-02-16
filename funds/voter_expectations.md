@@ -31,7 +31,7 @@ Voters ultimately just need to vote. However, voters can improve the significanc
 
 * Reaching out to potential voters, encouraging them to apply to be a voter.
 
-* Running for a committee posiiton themself.
+* Running for a committee position themselves.
 
 * Volunteering to support MAGIC Grants's operations.
 

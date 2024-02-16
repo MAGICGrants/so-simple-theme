@@ -15,12 +15,16 @@ Donate to the committee and projects here: [MoneroFund.org](https://monerofund.o
 
 ## Upcoming Dates
 
+The next election cycle will occur in December 2024 and January 2025.
+
+<!--
 * 5 December 2023: Committee and voter nominations open
 * 31 December 2023: Committee and voter nominations close
 * 6 January 2024: Voting opens
 * 20 January 2024: Voting closes
 * ~23 January 2024: Election results announced
 * 31 January 2024: Newly elected members join the committee
+-->
 
 ## Committee Candidates and Voter Nominations
 
@@ -29,11 +33,11 @@ Donate to the committee and projects here: [MoneroFund.org](https://monerofund.o
 ## Existing Committee Members and Voters
 
 Committee Members:
-* Rucknium (term until 2024-01)
-* kayabaNerve (term until 2024-01)
 * monerobull (term until 2025-01)
 * artlimber (term until 2025-01)
 * kowalabearhugs (term until 2025-01)
+* Rucknium (term until 2026-01)
+* kayabaNerve (term until 2026-01)
 
 [List of all voters](/funds/monero/monero_fund_voters)
 

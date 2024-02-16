@@ -14,11 +14,9 @@ These are the existing MAGIC Funds. Please click on the one you are interested i
 
 ## Proposed / Pending MAGIC Funds
 
-* [MAGIC Litecoin Fund]() - Speaking with various stakeholders
-
 ## About MAGIC Funds
 
-MAGIC Grants created the MAGIC Funds initiative to allow communtities to fund various qualifying projects with ease.
+MAGIC Grants created the MAGIC Funds initiative to allow communities to fund various qualifying projects with ease.
 
 Each MAGIC Fund is different because each community is different. However,  MAGIC Funds typically have the following properties:
 
@@ -28,7 +26,7 @@ Each MAGIC Fund is different because each community is different. However,  MAGI
 
 * Committee members hold regular meetings and publish meeting minutes.
 
-* Committee members, voters, and project community members raise donations for their MAGIC Fund. Donations are fully tax deductible and can be made in crytocurrencies, bank transfer, or other methods.
+* Committee members, voters, and project community members raise donations for their MAGIC Fund. Donations are fully tax deductible and can be made in cryptocurrencies, bank transfer, or other methods.
 
 * Donations made to the MAGIC Fund can only be used as described in the latest copy of the relevant MAGIC Fund document. They can not be used by MAGIC Grants for any other purpose. This is not a donor-advised fund.
 
