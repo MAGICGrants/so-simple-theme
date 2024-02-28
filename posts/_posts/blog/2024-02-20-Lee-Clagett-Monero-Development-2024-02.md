@@ -2,7 +2,7 @@
 layout: post
 title: "Lee Clagett Raises Funds to Develop Monero for 3 Months"
 excerpt: "This development work will improve security, performance, and usability with an end goal of helping to broaden the user base."
-date: 2021-07-30
+date: 2024-02-20
 author: magicboard
 ---
 
