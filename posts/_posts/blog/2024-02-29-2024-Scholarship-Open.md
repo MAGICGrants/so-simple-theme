@@ -14,7 +14,7 @@ We welcome worldwide applicants, not just US students!
 
 **Applications are due 22 July 2024.** Recipients will be announced in early August.
 
-Click on the button below to view the full scholarship instructions. If you need assistance, please contact [applications@magicgrants.org](mailto:applications@magicgrants.org).
+Click on the link below to view the full scholarship instructions. If you need assistance, please contact [applications@magicgrants.org](mailto:applications@magicgrants.org).
 
 **[2024 Application on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSebLtxLxWATwmXR6_WqAajLw1nHmwCOmk4UGD0Nzn-8vu_YJA/viewform)**
 
