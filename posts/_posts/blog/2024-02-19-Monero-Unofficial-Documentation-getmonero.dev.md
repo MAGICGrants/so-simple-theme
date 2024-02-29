@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GetMonero.dev now serves as unofficial Monero developer and user documentation"
+title: "GetMonero.dev Now Serves as Unofficial Monero Developer and User Documentation"
 except: "GetMonero.dev is forked from MoneroDocs.org, which no longer serves content"
 date: 2024-02-19
 author: magicboard
