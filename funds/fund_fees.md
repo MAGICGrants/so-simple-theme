@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Fund Fees"
 ---
 
-*Updated 2021-11-20*
+*Updated 2024-03-01*
 
 MAGIC Grants imposes fees on MAGIC Funds in the following way. MAGIC Grants may make changes to these fees (in its sole discretion) with advance notice including a public feedback period of at least 30 days. Fees may be changed immediately without notice if the changes improve the legal standing of MAGIC Grants.
 
@@ -20,24 +20,28 @@ Based on daily average assets; fees per year.
 | $100 MM + | 1.00% |
 
 Example for a Fund with $105 MM in assets every day for a year:
-0.5%*(1 MM) + 1.75%*(100 MM - 1 MM) + 1.00% (105 MM - 100 MM) = 0.005 + 1.7325 MM + 0.05 MM = 1.7875 MM
+0.5%x(1 MM) + 1.75%x(100 MM - 1 MM) + 1.00%x(105 MM - 100 MM) = 0.005 + 1.7325 MM + 0.05 MM = 1.7875 MM
 
-The **minimum annual fee** for any MAGIC Fund (unless specifically waived by the board) is **$5000**. This will be charged at the start of the Fund’s formation and will be charged annually thereafter.
+The **minimum annual fee** for any MAGIC Fund (unless specifically waived by the board) is **$1000**. This will be charged at the start of the Fund’s formation and will be charged annually thereafter.
 
 Any fees above the minimum annual fee are levied monthly.
 
+## Additional Ledgers
+
+MAGIC Grants incurs accounting costs for complicated investment strategies. If a MAGIC Fund wishes to engage in more advanced asset management than a single-asset ledger (typically USD), then additional fees apply.
+
+The base cost for an additional asset ledger is $1000 per month. This includes 5 basic investment credits per month.
+
 ## Basic Investment Credits
 
-* 1 free credit per month
-* Maximum 6 total accumulated credits
-* Additional credits purchasable for $50/credit (subject to board limits)
+* Credits purchasable for $50/credit (subject to board limits)
 * Trade and transaction fees will be passed through at cost
 
 Credits can be used for the following **Basic Investments**:
-* Select fiat trades to/from cryptocurrencies on Approved Platforms
-* Crypto/crypto trades on Approved Platforms
-* Stock purchases/sales on Approved Platforms
-* NFT purchases/sales on Approved Platforms
+* Manual fiat trades to/from cryptocurrencies on Approved Platforms
+* Manual crypto/crypto trades on Approved Platforms
+* Manual stock purchases/sales on Approved Platforms
+* Manual NFT purchases/sales on Approved Platforms
 * Anything else MAGIC Grants adds (items may also be removed)
 
 ## Advanced Investment Options
@@ -46,13 +50,17 @@ MAGIC Grants may charge a $100/hr fee for more complicated trading/investment si
 
 ## Grant Disbursement Credits
 
-* 1 free credit per month
-* 1 free additional monthly credit if >$2 MM in daily average assets, and another credit for every $10 MM after that
-* Maximum 6 accumulated credits
-* Additional credits purchasable for $100/credit (subject to board limits)
-* Grant disbursement credits not required for committee disbursements
-
 Credits can be used to make individual grant disbursements.
+
+MAGIC Funds get a certain number of free monthly grant disbursement credits depending on the average daily balance of the MAGIC Fund, as follows:
+
+* Less than $2 MM: 5 per month
+* $2 MM to $10 MM: 10 per month
+* Over $10 MM: 15 per month
+
+Additional grant disbursements cost $100 each (subject to board limits).
+
+Grant disbursement credits are not required for committee disbursements.
 
 ## Committee Disbursement Fees
 
@@ -66,7 +74,7 @@ If a specific Fund would like for MAGIC Grants to onboard with a specific platfo
 
 This list may be updated from time to time without notice. Limits may apply.
 * Kraken
-* Bittrex
+* Vanguard
 
 ## Hourly Rates
 
