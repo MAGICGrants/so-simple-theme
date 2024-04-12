@@ -109,6 +109,10 @@ The Fund can be closed and the remaining assets given to MAGIC Grants or another
 * The committee votes unanimously to close the Fund.
 * The committee votes by majority vote to “split” the Fund into several Funds. This is intended for major Project changes or splits (eg: Bitcoin/Bitcoin Cash). MAGIC Grants may optionally “freeze” the existing Fund while it determines how to allocate assets among the two new Funds. MAGIC Grants may deny the formation of new Funds, preventing the “split” in effect. The new Funds will then undergo the typical Fund startup processes of selecting Voters and electing a committee, subject requirements listed in those new Fund charter documents.
 
+## Right to Transfer All Assets to Another Organization
+
+The MAGIC Fund Committee members can elect to transfer all of their assets to another qualifying 501(c)(3) organization. This may occur if they decide to make a dedicated 501(c)(3) organization for Privacy Guides, or if they wish to choose a different fiscal host. MAGIC Grants will not make any unreasonable attempts to prevent the transfer of assets to another organization.
+
 ## Renaming the Fund
 
 The committee can vote by majority vote to rename the Fund, which must be approved by MAGIC Grants.
