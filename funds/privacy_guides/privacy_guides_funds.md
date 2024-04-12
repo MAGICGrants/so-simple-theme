@@ -19,7 +19,7 @@ Multidisciplinary Academic Grants in Cryptocurrencies (**MAGIC Grants**) is a 50
 
 ## Creation of the Fund
 
-At the time of the fund's creation, the five Privacy Guides team members are jonah, niek-de-wilde, dngray, freedy, and olivia.
+At the time of the fund's creation, the five Privacy Guides team members are jonah, niek-de-wilde, dngray, freddy, and olivia.
 
 These five individuals will join as the initial five committee members.
 
