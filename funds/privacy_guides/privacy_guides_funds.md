@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Privacy Guides Fund"
 ---
 
-*Updated 2024-03-01*
+*Updated 2024-04-12*
 
 ## Background
 
@@ -58,8 +58,6 @@ If the MAGIC Grants board determines (in its sole discretion) that any MAGIC Fun
 
 *Any details in **Appendix C** supersede the relevant paragraphs in this section.*
 
-If MAGIC Fund Voters wish to impeach an elected committee member, they can call for a special vote. Three quarters of all MAGIC Fund Voters must vote for the committee member’s impeachment (for clarity: not three quarters of just the voter turnout). Should this threshold be met, the MAGIC Grants Board shall evaluate the situation and determine in its own discretion whether to remove the committee member or not.
-
 Committee members can vote to impeach another committee member. All other committee members must vote for the committee member's impeachment. Should this occur, the MAGIC Grants board shall evaluate the situation and determine in its own discretion whether to remove the committee member or not.
 
 ## Fund Disbursement Requirements
@@ -78,7 +76,7 @@ Selected MAGIC Fund investment decisions must comply with the MAGIC Investment P
 
 ## Compensation for MAGIC Fund Committee Members
 
-The MAGIC Fund Voters must explicitly vote to change the amount of compensation allowable to MAGIC Fund Committee Members for such compensation to be made available from the MAGIC Fund, and limits (such as hourly rates) must be established in the vote. MAGIC Grants will veto any disbursement that does not meet these predetermined guidelines. Committee members may optionally forgo compensation, though this should not be expected or pressured in any way. MAGIC Grants may be legally required to publicly disclose compensation that meets certain criteria; please ask the MAGIC board for specifics if this applies. MAGIC Fund Committee Members may elect to have their due compensation paid to another entity, subject to MAGIC Grants board approval.
+The MAGIC Fund Committee must unanimously vote to change the amount of compensation allowable to MAGIC Fund Committee Members for such compensation to be made available from the MAGIC Fund, and limits (such as hourly rates) must be established in the vote. MAGIC Grants will veto any disbursement that does not meet these predetermined guidelines. Committee members may optionally forgo compensation, though this should not be expected or pressured in any way. MAGIC Grants may be legally required to publicly disclose compensation that meets certain criteria; please ask the MAGIC board for specifics if this applies. MAGIC Fund Committee Members may elect to have their due compensation paid to another entity, subject to MAGIC Grants board approval.
 
 The initial level of allowable compensation and restrictions are listed in **Appendix D**.
 
@@ -95,7 +93,7 @@ The MAGIC Fund Committee should provide meeting minutes to MAGIC Grants and to t
 
 ## Donations from MAGIC Fund to MAGIC Grants
 
-Should the MAGIC Fund Committee decide to donate funds to MAGIC Grants, such a decision must be approved by a MAGIC Fund Voters majority vote. This does not include payments of fees levied by MAGIC Grants on the MAGIC Fund.
+Should the MAGIC Fund Committee decide to donate funds to MAGIC Grants, such a decision must be approved by a MAGIC Fund Committee majority vote. This does not include payments of fees levied by MAGIC Grants on the MAGIC Fund.
 
 ## MAGIC Fund Fees
 
@@ -108,8 +106,8 @@ The Fund can be closed and the remaining assets given to MAGIC Grants or another
 * The Fund has no remaining assets or a negative balance. MAGIC Grants may close the Fund with 30 days’ notice if not rectified in that time.
 * If applicable, the Fund has fewer assets than the minimum annual fee 30-60 days before the next minimum fee is due. MAGIC Grants may announce at least 30 days before the fee is due its intention to close the Fund, giving the committee a chance to determine how to disburse the remaining assets before the fee is charged.
 * MAGIC Grants issues a notice at least 1 year in advance that it wishes to close the Fund, giving the committee a chance to determine how to disburse the remaining assets.
-* The committee votes unanimously to close the Fund. MAGIC Grants may optionally also require a Voter majority vote.
-* The committee votes by majority vote to “split” the Fund into several Funds. This is intended for major Project changes or splits (eg: Bitcoin/Bitcoin Cash). MAGIC Grants may optionally “freeze” the existing Fund while it is determining how to allocate assets among the two new Funds. MAGIC Grants may deny the formation of new Funds, preventing the “split” in effect. Should MAGIC Grants agree to “split” the Fund, Voters must agree by majority vote to 1) close the existing Fund, 2) open two (or more, as applicable) new Funds under new charter documents, and 3) vote to approve the allocation of assets among the new Funds. The new Funds will then undergo the typical Fund startup processes of selecting Voters and electing a committee, subject requirements listed in those new Fund charter documents.
+* The committee votes unanimously to close the Fund.
+* The committee votes by majority vote to “split” the Fund into several Funds. This is intended for major Project changes or splits (eg: Bitcoin/Bitcoin Cash). MAGIC Grants may optionally “freeze” the existing Fund while it determines how to allocate assets among the two new Funds. MAGIC Grants may deny the formation of new Funds, preventing the “split” in effect. The new Funds will then undergo the typical Fund startup processes of selecting Voters and electing a committee, subject requirements listed in those new Fund charter documents.
 
 ## Renaming the Fund
 
@@ -117,7 +115,7 @@ The committee can vote by majority vote to rename the Fund, which must be approv
 
 ## Changes to this Document
 
-Unless other restrictions apply to the relevant sections, the committee may modify this document by majority vote. MAGIC Grants must approve the changes, and it may require a Voter majority vote to approve the changes even if this is not explicitly required by the existing language. Unless waived by MAGIC Grants, proposed changes should be announced publicly at least 30 days in advance of the change.
+Unless other restrictions apply to the relevant sections, the committee may modify this document by majority vote. MAGIC Grants must approve the changes. Unless waived by MAGIC Grants, proposed changes should be announced publicly at least 30 days in advance of the change.
 
 Should any portion of this document affect the legal standing of MAGIC Grants, MAGIC Grants may change the relevant portions without any other approvals and without notice.
 
@@ -151,7 +149,7 @@ Initially, there will be 5 committee members. None of the committee members are 
 
 The amount allowable for committee member compensation is the lesser value of the restrictions imposed by Parts A and B:
 
-Part A: This is the compensation allowable to committee members by Voters (modifiable by board-approved Voter majority vote):
+Part A: This is the compensation allowable to committee members:
 
 * Term: Monthly
 * Amount: $0
