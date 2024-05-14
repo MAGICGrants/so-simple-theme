@@ -3,7 +3,7 @@ layout: page
 title: "MAGIC Monero Fund"
 ---
 
-*Updated 2021-12-01*
+*Updated 2023-04-18*
 
 ## Background
 
@@ -90,6 +90,8 @@ If the MAGIC Grants board determines (in its sole discretion) that any MAGIC Fun
 ## MAGIC Fund Committee Impeachment
 
 If MAGIC Fund Voters wish to impeach an elected committee member, they can call for a special vote. Three quarters of all MAGIC Fund Voters must vote for the committee member’s impeachment (for clarity: not three quarters of just the voter turnout). Should this threshold be met, the MAGIC Grants Board shall evaluate the situation and determine in its own discretion whether to remove the committee member or not.
+
+If a MAGIC Fund Committee member has missed the last 4 regularly-scheduled consecutive meetings, they become eligible to be removed by a unanimous vote of at least 4 committee members voting in favor of the committee member's removal. Should this threshold be met, the MAGIC Grants Board shall evaluate the situation and determine in its own discretion whether to remove the committee member or not.
 
 ## Fund Disbursement Requirements
 
